@@ -256,31 +256,9 @@ The project includes several preprocessed datasets:
 - **New York Times**: News article dataset
 - **WikiText**: Wikipedia article excerpts
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **[TopMost](https://github.com/bobxwu/TopMost)** by bobxwu - The comprehensive topic modeling toolkit that powers our traditional model implementations (ACL 2024 Demo)
 - **OpenRouter** - For providing unified access to multiple state-of-the-art LLM APIs
 - **Research Community** - For open datasets and evaluation methodologies that enable reproducible research
 - **Model Providers** - OpenAI, Anthropic, Google, Meta, DeepSeek, Qwen, and others for advancing long-context capabilities
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-We welcome contributions! Areas of particular interest:
-- New evaluation metrics for LLM topic modeling
-- Additional long-context model integrations  
-- Cross-lingual topic modeling evaluation
-- Computational efficiency improvements
-
-Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.

@@ -1,0 +1,2358 @@
+{
+  "file_path": "C:/Users/1/Desktop/TopMost/LCLLMTM/data4LCLLM/NYT_sampled.csv",
+  "total_topics": 13,
+  "topics": [
+    {
+      "topic_num": 1,
+      "summary": "The article discusses the death of Bert Bolin, a pioneering climatologist and the first chairman of the United Nations Intergovernmental Panel on Climate Change.",
+      "keywords": [
+        "Bert Bolin",
+        "Climatologist",
+        "United Nations",
+        "Global Warming",
+        "Science and Technology"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Bert Bolin, 82, Is Dead; Led U.N. Climate Panel",
+          "id": "39",
+          "match_score": 4,
+          "matched_keywords": [
+            "Bert Bolin",
+            "Climatologist",
+            "United Nations"
+          ]
+        },
+        {
+          "title": "U.N. Climate Chief Quits, Deepening Sense of Disarray",
+          "id": "12890",
+          "match_score": 2,
+          "matched_keywords": [
+            "United Nations",
+            "Global Warming"
+          ]
+        },
+        {
+          "title": "Scientists and Religious Leaders Discuss Climate Change at Vatican",
+          "id": "53012",
+          "match_score": 2,
+          "matched_keywords": [
+            "United Nations",
+            "Global Warming"
+          ]
+        },
+        {
+          "title": "Competition Is Tough for Most Coveted Seat at the United Nations",
+          "id": "47967",
+          "match_score": 2,
+          "matched_keywords": [
+            "United Nations"
+          ]
+        },
+        {
+          "title": "Pope Francisâ?Remarks to United Nations Staff",
+          "id": "57831",
+          "match_score": 2,
+          "matched_keywords": [
+            "United Nations"
+          ]
+        },
+        {
+          "title": "Applications for Asylum Are Surging, United Nations Says",
+          "id": "52175",
+          "match_score": 2,
+          "matched_keywords": [
+            "United Nations"
+          ]
+        },
+        {
+          "title": "United Nations Security Council Examines North Koreaâs Human Rights",
+          "id": "49859",
+          "match_score": 2,
+          "matched_keywords": [
+            "United Nations"
+          ]
+        },
+        {
+          "title": "In Weather Chaos, a Case for Global Warming",
+          "id": "16070",
+          "match_score": 2,
+          "matched_keywords": [
+            "Global Warming"
+          ]
+        },
+        {
+          "title": "Obama Presses Chinese on Global Warming",
+          "id": "47364",
+          "match_score": 2,
+          "matched_keywords": [
+            "Global Warming"
+          ]
+        },
+        {
+          "title": "Scuffle at the United Nations Ends in an Apology to Turks",
+          "id": "23995",
+          "match_score": 2,
+          "matched_keywords": [
+            "United Nations"
+          ]
+        },
+        {
+          "title": "Global Warming âHiatusâ?Challenged by NOAA Research",
+          "id": "54012",
+          "match_score": 2,
+          "matched_keywords": [
+            "Global Warming"
+          ]
+        },
+        {
+          "title": "Defying Syria, United Nations Sends in Trucks Carrying Aid",
+          "id": "45790",
+          "match_score": 2,
+          "matched_keywords": [
+            "United Nations"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 12
+      }
+    },
+    {
+      "topic_num": 2,
+      "summary": "The article reports on a DNA analysis that indicated a 3-year-old boy born in the Colombian jungle to a kidnapped woman may have been living near his relatives all along.",
+      "keywords": [
+        "DNA analysis",
+        "Colombia",
+        "Kidnapping",
+        "Civil War and Guerrilla Warfare"
+      ],
+      "keyword_count": 4,
+      "meets_requirements": false,
+      "source_titles_with_ids": [
+        {
+          "title": "Colombia Absolves Kidnapping Victim Accused of Misdeeds",
+          "id": "31096",
+          "match_score": 4,
+          "matched_keywords": [
+            "Colombia",
+            "Kidnapping"
+          ]
+        },
+        {
+          "title": "Colombia: Hurdles for Militia Inquiry",
+          "id": "4511",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "After West Bank Kidnapping, 2 Mothers Embody a Divide",
+          "id": "45108",
+          "match_score": 2,
+          "matched_keywords": [
+            "Kidnapping"
+          ]
+        },
+        {
+          "title": "Bolivia Detains Chief of Airline in Colombia Crash",
+          "id": "69622",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Union Killings Peril Trade Pact With Colombia",
+          "id": "1576",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Colombia: Rebels Pick New Leader",
+          "id": "25000",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Mexico: Kidnapping Episode Leaves 21 Dead",
+          "id": "6397",
+          "match_score": 2,
+          "matched_keywords": [
+            "Kidnapping"
+          ]
+        },
+        {
+          "title": "U.S. Worker Held in Haiti on Kidnapping Charges",
+          "id": "18210",
+          "match_score": 2,
+          "matched_keywords": [
+            "Kidnapping"
+          ]
+        },
+        {
+          "title": "Colombia Chief Hails Democratic and Economic Gains",
+          "id": "1714",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Prison Riots in Colombia Over Virus Fears Leave at Least 23 Dead",
+          "id": "90519",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Nigeria Rescues Another Student From 2014 Chibok Kidnapping",
+          "id": "76233",
+          "match_score": 2,
+          "matched_keywords": [
+            "Kidnapping"
+          ]
+        },
+        {
+          "title": "Colombia Extradites 14 Paramilitary Leaders",
+          "id": "2046",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Colombia Court Keeps Restrictive Abortion Law in Place",
+          "id": "90103",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "âThe Bodies Are Decomposingâ?After Mudslide in Colombia",
+          "id": "71664",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Mayor Ousted in Colombia After Claims of Bungling",
+          "id": "39956",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Colombia Bridge Collapse Throws Workers to Their Deaths",
+          "id": "76410",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Ex-President Wins a Seat in Colombia",
+          "id": "41924",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "At Amateur Bullfights in Colombia, Alcohol and Blood Flow Freely",
+          "id": "347",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Mayorâs Ouster Is Approved in Colombia",
+          "id": "42264",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Colombia Signs Peace Agreement With FARC After 5 Decades of War",
+          "id": "68299",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Syria Accused of Kidnapping 4 in Lebanon",
+          "id": "24706",
+          "match_score": 2,
+          "matched_keywords": [
+            "Kidnapping"
+          ]
+        },
+        {
+          "title": "Ex-Promoter in Haiti Charged in Kidnapping Ring",
+          "id": "51968",
+          "match_score": 2,
+          "matched_keywords": [
+            "Kidnapping"
+          ]
+        },
+        {
+          "title": "In Colombia Border Town, Desperate Venezuelans Sell Hair to Survive",
+          "id": "76911",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Support From the Left Helps Keep a Right-Wing President in Power in Colombia",
+          "id": "44821",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        },
+        {
+          "title": "Colombia Plucks Hostages From Rebelsâ?Grasp",
+          "id": "2876",
+          "match_score": 2,
+          "matched_keywords": [
+            "Colombia"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 25
+      }
+    },
+    {
+      "topic_num": 3,
+      "summary": "The article discusses the expansion of the U.S. detention center at Bagram military base in Afghanistan despite efforts to scale it back.",
+      "keywords": [
+        "Afghanistan",
+        "Military Bases and Installations",
+        "Prisons and Prisoners",
+        "Guantanamo Bay"
+      ],
+      "keyword_count": 4,
+      "meets_requirements": false,
+      "source_titles_with_ids": [
+        {
+          "title": "Anti-Torture Efforts in Afghanistan Failed, U.N. Says",
+          "id": "33373",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Taliban Gain Ground in Afghanistan as Soldiers Surrender Their Posts",
+          "id": "68928",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Military Plans Reflect Afghanistan Uncertainty",
+          "id": "40962",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "After U.S. Talks With Afghanistan, Hints at a Harder Line on Pakistan",
+          "id": "71899",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Kerry Pushes for Solution to Afghanistan Election Crisis",
+          "id": "45419",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Objections to U.S. Troops Intensify in Afghanistan",
+          "id": "34591",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Afghanistan's Pepsi Bottle Boys",
+          "id": "31403",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Days After an Order to Restrict Them, Afghanistan Calls for Airstrikes to End",
+          "id": "29006",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Deadly Shelling by Pakistan Into Afghanistan Is Stoking Tensions",
+          "id": "22364",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Petraeus Warns of a Long and Expensive Mission in Afghanistan",
+          "id": "11584",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "China Considers Larger Role in Afghanistan Peace Process",
+          "id": "61934",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "9 Soldiers Killed in Afghanistan",
+          "id": "9378",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "U.S. Military Stops Counting How Much of Afghanistan Is Controlled by Taliban",
+          "id": "84313",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "U.S. Troops Could Stay in Afghanistan Past Deadline, Envoy Says",
+          "id": "25489",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Bomb Kills Man in Afghanistan",
+          "id": "2362",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Nancy Hatch Dupree, Scholar of Afghanistan, Is Dead at 89",
+          "id": "74465",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "2 Foreign Aid Workers Are Gunned Down in Afghanistan, Officials Say",
+          "id": "45767",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "In Afghanistan, Gates Stresses U.S. Is Committed to the Fight",
+          "id": "21809",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "U.S. Troops to Leave Afghanistan by End of 2016",
+          "id": "44148",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "In Advance of Cease-Fires, Bombings in Afghanistan Kill at Least 18",
+          "id": "78721",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "9 Killed in Coordinated Attacks in Afghanistan",
+          "id": "7969",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Terrorism Suspect Is Captured in a Raid in Afghanistan",
+          "id": "20871",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "U.S. Airstrikes in Afghanistan Are Said to Kill 16 Civilians",
+          "id": "73987",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Three Women Working to Vaccinate Children Are Shot Dead in Afghanistan",
+          "id": "99515",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "title": "Afghanistan Imposes Censorship on Election Day",
+          "id": "9661",
+          "match_score": 2,
+          "matched_keywords": [
+            "Afghanistan"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 25
+      }
+    },
+    {
+      "topic_num": 4,
+      "summary": "The article reports on a rift emerging between President Mahmoud Ahmadinejad and Iran's supreme religious leader, Ayatollah Ali Khamenei.",
+      "keywords": [
+        "Iran",
+        "Appointments and Executive Changes",
+        "Khamenei",
+        "Ahmadinejad"
+      ],
+      "keyword_count": 4,
+      "meets_requirements": false,
+      "source_titles_with_ids": [
+        {
+          "title": "Iran Confronts 3rd Day of Protests, With Calls for Khamenei to Quit",
+          "id": "76166",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Khamenei"
+          ]
+        },
+        {
+          "title": "Iran Denies Reports of Attack on Ahmadinejad",
+          "id": "15903",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "Iran Council Certifies Ahmadinejad Victory",
+          "id": "8765",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "Ahmadinejad Sees Nuclear Energy in Iran by 2009",
+          "id": "473",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "Ahmadinejad, in Iraq, Chides Bush on Iran Criticism",
+          "id": "957",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "As Election in Iran Nears, Ahmadinejadâs Critics Are Piling On",
+          "id": "35488",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "As Iran Nuclear Talks Resume, Ayatollah Criticizes U.S.",
+          "id": "40552",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Khamenei"
+          ]
+        },
+        {
+          "title": "Ahmadinejad Reacts to Accusation",
+          "id": "10325",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "Supreme Leader Doubts Talks Will End Iran Sanctions",
+          "id": "51246",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Khamenei"
+          ]
+        },
+        {
+          "title": "Iran News Agency Reports Prisoner Died of Abuse",
+          "id": "9888",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Khamenei"
+          ]
+        },
+        {
+          "title": "Breaking Silence, Ayatollah Says Iran Is Standing Up to West in Nuclear Talks",
+          "id": "49071",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Khamenei"
+          ]
+        },
+        {
+          "title": "Iran Leader Not Optimistic About Talks With U.S.",
+          "id": "37201",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Khamenei"
+          ]
+        },
+        {
+          "title": "Iran Unveils More Defense Projects",
+          "id": "30241",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "Iran Supreme Leader Warns Subordinates to Stop Bickering",
+          "id": "31756",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Khamenei"
+          ]
+        },
+        {
+          "title": "Praise in Iran All the Way to the Top, Where Efforts Reportedly Preceded a President",
+          "id": "39642",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Khamenei"
+          ]
+        },
+        {
+          "title": "Brazilâs Iran Diplomacy Worries U.S. Officials",
+          "id": "14484",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "Iranian President Says Oil Embargo Wonât Hurt",
+          "id": "27848",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "After Obama Overture, Iranâs Leader Seeks U.S. Apology",
+          "id": "6149",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "Iranâs Ayatollah Suggests He May Not Be Around in 10 Years",
+          "id": "57544",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iran",
+            "Khamenei"
+          ]
+        },
+        {
+          "title": "A Presidentâs Defender Keeps His Distance",
+          "id": "88",
+          "match_score": 2,
+          "matched_keywords": [
+            "Khamenei",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "Iranâs Leader Mocks Westâs Accusations",
+          "id": "10330",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iran",
+            "Ahmadinejad"
+          ]
+        },
+        {
+          "title": "Seizure of Antiaircraft Missiles in Yemen Raises Fears That Iran Is Arming Rebels There",
+          "id": "33810",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iran"
+          ]
+        },
+        {
+          "title": "Iran Lawmakers Re-elect Their Conservative Speaker, Ali Larijani",
+          "id": "65792",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iran"
+          ]
+        },
+        {
+          "title": "Iran Fights Scourge of Addiction in Plain View, Stressing Treatment",
+          "id": "2787",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iran"
+          ]
+        },
+        {
+          "title": "Iran Ruling In Europe Draws Anger From U.S.",
+          "id": "38017",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iran"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 25
+      }
+    },
+    {
+      "topic_num": 5,
+      "summary": "The article discusses Philip Agee, a former CIA officer who exposed undercover American spies overseas before his death at 72.",
+      "keywords": [
+        "Intelligence Services",
+        "Cuba",
+        "Central Intelligence Agency",
+        "Deaths (Obituaries)"
+      ],
+      "keyword_count": 4,
+      "meets_requirements": false,
+      "source_titles_with_ids": [
+        {
+          "title": "Cuba and U.S. to Discuss Settling Claims on Property",
+          "id": "60375",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "âOn Social Media, There Are Thousandsâ? In Cuba, Internet Fuels Rare Protests",
+          "id": "95479",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "U.S. and Cuba at Odds Over Exodus of the Islandâs Doctors",
+          "id": "60877",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Pope Celebrates First Mass in Cuba",
+          "id": "57660",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "U.S. Outpost in Cuba to Step Out of the Shadows",
+          "id": "50507",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "First Cuba, Now China? An American Falls Ill After âAbnormalâ?Sounds",
+          "id": "78423",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Cuba Frees 53 Prisoners, U.S. Says",
+          "id": "50271",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Cuba: Blogger Detained as Trial Begins",
+          "id": "31224",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Harsh Self-Assessment as Cuba Looks Within",
+          "id": "37225",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Focusing on Future, Cuba Leaves Fidel Castro to History",
+          "id": "49761",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "In Cuba, Hopeful Tenor Toward Obama Is Ebbing",
+          "id": "11942",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Cuba Moves Closer to Exit U.S. Terror List",
+          "id": "52892",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Top Diplomats of Cuba and Mexico Meet",
+          "id": "11623",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "A Nation in Mourning: Images of Cuba After Fidel Castro",
+          "id": "69548",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Russia and Cuba Take Steps to Revive a Bond",
+          "id": "6188",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Donald Trumpâs Threat to Close Door Reopens Old Wounds in Cuba",
+          "id": "69438",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Russia Plans to Reopen Post in Cuba for Spying",
+          "id": "45549",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Cuba: U.S. Diplomat to Return for Third Round of Talks",
+          "id": "51835",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "American Nations Debate Readmitting Cuba",
+          "id": "8326",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Kerry on Diplomatic Relations With Cuba",
+          "id": "55568",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Obama in Cuba: An Activist Awaits",
+          "id": "63837",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "U.S. Eases Restrictions on Financing Exports to Cuba",
+          "id": "61999",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Year After Cuba-U.S. Thaw, Obama Says Change Will Take Time",
+          "id": "60781",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "At a Fork in the Road, Cuba Follows Two Paths",
+          "id": "3283",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        },
+        {
+          "title": "Crucial Spy in Cuba Paid a Heavy Cold War Price",
+          "id": "49746",
+          "match_score": 2,
+          "matched_keywords": [
+            "Cuba"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 25
+      }
+    },
+    {
+      "topic_num": 6,
+      "summary": "The article reports on a previously undisclosed incident involving the use of gas by Blackwater private security contractors in Iraq.",
+      "keywords": [
+        "Helicopters",
+        "Iraq",
+        "Accidents and Safety",
+        "Hazardous and Toxic Substances",
+        "Mercenaries"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Syrian Forces Mass Near Town Where Many Soldiers Have Defected",
+          "id": "22631",
+          "match_score": 2,
+          "matched_keywords": [
+            "Helicopters",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Turkey Says It Has Sent Ground Troops Into Iraq",
+          "id": "821",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Blasts Kill 21 at a Cafe in North Iraq",
+          "id": "9592",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "U.S. Drones Patrolling Its Skies Provoke Outrage in Iraq",
+          "id": "26487",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "U.S. Transfers Its Last Prisoner in Iraq to Iraqi Custody",
+          "id": "25622",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Donald Trump Said He Favored Iraq Invasion in 2002 Interview",
+          "id": "62850",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Massacre Claim Shakes Iraq",
+          "id": "44681",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Assault by Iraq on Shiite Forces Stalls in Basra",
+          "id": "1322",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "2 Markets, of Varying Security, Highlight Challenge for U.S. Troops in Iraq",
+          "id": "1045",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Attacks Threaten Fragile Security Gains in Cradle of Iraq Insurgency",
+          "id": "11176",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Iraq Raids Iranian-Backed Militia Accused of Attacking U.S. Forces",
+          "id": "92099",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Blast Kills Dozens of Shiite Worshipers in Southern Iraq",
+          "id": "26170",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "As Iraq Stabilizes, China Bids on Its Oil Fields",
+          "id": "8787",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "ISIS Fighters in Iraq Attack Kirkuk, Diverting Attention From Mosul",
+          "id": "68765",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Iraq: U.S. Ambassador Confirmed",
+          "id": "7618",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Blasts Kill at Least 12 Mourners at Funeral of Iraq Sunni Leader",
+          "id": "39778",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Panel Questions State Dept. Role in Iraq Oil Deal",
+          "id": "2874",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Amid Progress in Iraq, Sides Have Scores to Settle",
+          "id": "4273",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "U.S. General Open to Ground Forces in Fight Against ISIS in Iraq",
+          "id": "47159",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Crashes Underline Ugandaâs Spotty Record With Helicopters",
+          "id": "30115",
+          "match_score": 2,
+          "matched_keywords": [
+            "Helicopters"
+          ]
+        },
+        {
+          "title": "In Iraq, a Blunt Civilian Is a Fixture by the Generalâs Side",
+          "id": "11249",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Sadr Offers Deal for Truce as Fighting Persists in Iraq",
+          "id": "1349",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Britain Says Iraq Campaign Will Last âWeeks and Monthsâ?Foreign",
+          "id": "46373",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "U.S. Antagonist in Iraq Takes a Political Gamble",
+          "id": "29510",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Ex-Premier Is Expelled From Governing Party in Iraq",
+          "id": "2483",
+          "match_score": 2,
+          "matched_keywords": [
+            "Iraq"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 25
+      }
+    },
+    {
+      "topic_num": 7,
+      "summary": "The article discusses the seizure of Radovan Karadzic's family members' passports by Bosnian Serb police at the request of the international war crimes court.",
+      "keywords": [
+        "Karadzic",
+        "Radovan",
+        "War Crimes",
+        "Genocide and Crimes Against Humanity",
+        "Bosnia and Herzegovina"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Bosnia: Police Take Passports of Karadzic Family",
+          "id": "134",
+          "match_score": 4,
+          "matched_keywords": [
+            "Karadzic",
+            "Radovan",
+            "War Crimes"
+          ]
+        },
+        {
+          "title": "Former Bosnian Serb Leader Gives Final Arguments at War Crimes Trial",
+          "id": "47626",
+          "match_score": 4,
+          "matched_keywords": [
+            "Karadzic",
+            "Radovan",
+            "War Crimes"
+          ]
+        },
+        {
+          "title": "Ex-Leader of Bosnian Serbs Fails to Get War Crimes Trial Halted",
+          "id": "29312",
+          "match_score": 4,
+          "matched_keywords": [
+            "Karadzic",
+            "Radovan",
+            "War Crimes"
+          ]
+        },
+        {
+          "title": "Tribunal Says Bosnian Serbâs Trial Must Proceed",
+          "id": "8937",
+          "match_score": 3,
+          "matched_keywords": [
+            "Karadzic",
+            "Radovan",
+            "War Crimes"
+          ]
+        },
+        {
+          "title": "Karadzic Trial Resumes Without Defendant",
+          "id": "10836",
+          "match_score": 3,
+          "matched_keywords": [
+            "Karadzic",
+            "Radovan"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 5
+      }
+    },
+    {
+      "topic_num": 8,
+      "summary": "The article reports on the United States and Germany's agreement to recognize Kosovo after it declares independence.",
+      "keywords": [
+        "KOSOVO (SERBIA)"
+      ],
+      "keyword_count": 1,
+      "meets_requirements": false,
+      "source_titles_with_ids": [],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 0
+      }
+    },
+    {
+      "topic_num": 9,
+      "summary": "The article discusses the United States' efforts to urge North Korea to provide a complete and correct accounting of its nuclear weapons programs.",
+      "keywords": [
+        "North Korea",
+        "UNITED STATES ARMAMENT AND DEFENSE",
+        "ATOMIC WEAPONS"
+      ],
+      "keyword_count": 3,
+      "meets_requirements": false,
+      "source_titles_with_ids": [
+        {
+          "title": "North Korea Tells China of âPermanentâ?Nuclear Policy",
+          "id": "65799",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "In New Talks, U.S. May Settle for a Nuclear Freeze by North Korea",
+          "id": "85516",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "Trumpâs Harsh Language on North Korea Has Little Precedent, Experts Say",
+          "id": "73933",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "In North Korea, Signs Point to Key Political Conference",
+          "id": "16452",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "Tending a Small Patch of Capitalism in North Korea",
+          "id": "24315",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "Latest Threats May Mean North Korea Wants to Talk",
+          "id": "5048",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "Focus Turns to North Korea Sleeper Cells as Possible Culprits in Cyberattack",
+          "id": "72466",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "Trump Moves to Widen U.S. Sanctions on North Korea",
+          "id": "74633",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "In Rodmanâs Ties to North Korea, Holy and Business Forces",
+          "id": "40188",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "North Korea Test-Fires 4 Short-Range Missiles",
+          "id": "8823",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "North Korea Fires 3 Short-Range Projectiles",
+          "id": "45010",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "North Korea Loses Its Link to the Internet",
+          "id": "49843",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "Economic Measures by North Korea Prompt New Hardships and Unrest",
+          "id": "12601",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "North Korea: A Pageant of Power",
+          "id": "40142",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        },
+        {
+          "title": "North Korea Calls U.N. Sanctions an âAct of Warâ?Foreign",
+          "id": "76082",
+          "match_score": 2,
+          "matched_keywords": [
+            "North Korea"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 15
+      }
+    },
+    {
+      "topic_num": 10,
+      "summary": "The article reports on Taiwan's preparations for its first major election in 2008 and China's condemnation of the referendum.",
+      "keywords": [
+        "China",
+        "Chen Shui-Bian",
+        "Taiwan",
+        "Elections"
+      ],
+      "keyword_count": 4,
+      "meets_requirements": false,
+      "source_titles_with_ids": [
+        {
+          "title": "Taiwan Prepares for First of 2 Major 2008 Elections",
+          "id": "158",
+          "match_score": 5,
+          "matched_keywords": [
+            "China",
+            "Taiwan",
+            "Elections"
+          ]
+        },
+        {
+          "title": "China: New Trade Talks With Taiwan",
+          "id": "8232",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Taiwan: Typhoon Kills One Before Heading for China",
+          "id": "3254",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "China Protests Planned U.S. Sale of Warships to Taiwan",
+          "id": "49789",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "China: Negotiations Set With Taiwan",
+          "id": "4190",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "China and Taiwan Expand Accords",
+          "id": "4780",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "The Taiwan Elections: What to Expect",
+          "id": "61547",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taiwan",
+            "Elections"
+          ]
+        },
+        {
+          "title": "Typhoon Pummels China and Taiwan",
+          "id": "9507",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Chinese Activist Who Wanted Asylum in Taiwan Returns to China",
+          "id": "71942",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "China and Taiwan Report Small Steps in Easing Tensions",
+          "id": "1575",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "As U.S. and Taiwan Celebrate a Bond, China Responds With Screaming Jets",
+          "id": "92844",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Theaterâs Evolving Role in China and Taiwan",
+          "id": "68014",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Coronavirus Crisis Offers Taiwan a Chance to Push Back Against China",
+          "id": "91011",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "How China Plans to Control Hong Kongâs Elections and Elevate âPatriotsâ?Foreign",
+          "id": "99160",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Elections"
+          ]
+        },
+        {
+          "title": "Chinaâs Naval Chief Visited Disputed Islands in the South China Sea, Taiwan Says",
+          "id": "47981",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Taiwan Suspects Pro-China Party of Passing Information to Beijing",
+          "id": "76015",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Bon Jovi Adds Taiwan Show After China Cancellations",
+          "id": "57342",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "China Resumes Diplomatic Relations With Gambia, Shutting Out Taiwan",
+          "id": "63763",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Trump Accuses China of Interfering in Midterm Elections",
+          "id": "80423",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Elections"
+          ]
+        },
+        {
+          "title": "China Suspends Diplomatic Contact With Taiwan",
+          "id": "66349",
+          "match_score": 4,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Taiwanâs Leader Outlines His Policy Toward China",
+          "id": "2662",
+          "match_score": 3,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "China to Prosecute Taiwanese in Fraud Case Despite Acquittals in Kenya",
+          "id": "64546",
+          "match_score": 3,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Taiwan Considers Medical Parole for Jailed Former President",
+          "id": "49984",
+          "match_score": 3,
+          "matched_keywords": [
+            "Chen Shui-Bian",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Airliners Have Become Chinaâs Newest Means of Pressuring Taiwan",
+          "id": "76460",
+          "match_score": 3,
+          "matched_keywords": [
+            "China",
+            "Taiwan"
+          ]
+        },
+        {
+          "title": "Former President of Taiwan Is Detained in a Corruption Inquiry",
+          "id": "4892",
+          "match_score": 3,
+          "matched_keywords": [
+            "Chen Shui-Bian",
+            "Taiwan"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 25
+      }
+    },
+    {
+      "topic_num": 11,
+      "summary": "The article discusses a French court's rejection of Cécilia Sarkozy's attempt to block the publication of a book critical of her ex-husband, President Nicolas Sarkozy.",
+      "keywords": [
+        "France",
+        "Sarkozy",
+        "Nicolas"
+      ],
+      "keyword_count": 3,
+      "meets_requirements": false,
+      "source_titles_with_ids": [
+        {
+          "title": "France: Sarkozy Pulls Down European Labor Rules",
+          "id": "2299",
+          "match_score": 5,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "France: Sarkozy Leaves Hospital",
+          "id": "9282",
+          "match_score": 5,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "France: Sarkozy Warns Publisher",
+          "id": "4581",
+          "match_score": 5,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "France Approaches the End of a Presidential Campaign With a Bitter Debate",
+          "id": "28264",
+          "match_score": 4,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "France: Former Premier Is Charged",
+          "id": "5039",
+          "match_score": 4,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "France: Minister Admits Lending Support on Award",
+          "id": "16409",
+          "match_score": 4,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "Muslim Graves Desecrated in France",
+          "id": "1469",
+          "match_score": 4,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "France: President Tells Ministers to Vacation at Home",
+          "id": "19243",
+          "match_score": 4,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "France: Pension Bill Signed Into Law",
+          "id": "17552",
+          "match_score": 4,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "Former Prime Minister Faces Trial in France",
+          "id": "5027",
+          "match_score": 4,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "France: Sarkozy Moves to Allow Sunday Shopping",
+          "id": "9210",
+          "match_score": 4,
+          "matched_keywords": [
+            "France",
+            "Sarkozy"
+          ]
+        },
+        {
+          "title": "Sarkozy Says He Wonât Meet Dalai Lama in France",
+          "id": "3395",
+          "match_score": 4,
+          "matched_keywords": [
+            "France",
+            "Sarkozy"
+          ]
+        },
+        {
+          "title": "Two Competing Visions of a European Economy",
+          "id": "15357",
+          "match_score": 3,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "Obama Heads for Paris and London",
+          "id": "3222",
+          "match_score": 3,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        },
+        {
+          "title": "French Journalists Return Home After 9 Days Trapped in Syria",
+          "id": "27122",
+          "match_score": 3,
+          "matched_keywords": [
+            "France",
+            "Sarkozy",
+            "Nicolas"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 15
+      }
+    },
+    {
+      "topic_num": 12,
+      "summary": "The article reports on a clash between allied Afghan soldiers and Dutch troops, resulting in the deaths of 15 people.",
+      "keywords": [
+        "Netherlands",
+        "North Atlantic Treaty Organization",
+        "Taliban",
+        "AFGHANISTAN",
+        "Attacks on Police"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Taliban Gain Ground in Afghanistan as Soldiers Surrender Their Posts",
+          "id": "68928",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "U.S. Military Stops Counting How Much of Afghanistan Is Controlled by Taliban",
+          "id": "84313",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Police Force in Afghanistan Is Studied for Ties to Taliban",
+          "id": "51003",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Different Taliban Groups Claim Role in Afghanistan Bombing",
+          "id": "11969",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Taliban Attack Kills Dozens in Afghanistan Despite U.S. Efforts in Peace Talks",
+          "id": "83848",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Taliban Commanderâs Death Ends an Embarrassment for Afghanistan",
+          "id": "6492",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Taliban Attack U.S. Base in Afghanistan as Negotiators Talk Peace",
+          "id": "88504",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Taliban Attack Kills 11 Officers at a Police Post in Afghanistan",
+          "id": "1581",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Fatal Fighting Pits Villagers and Taliban in Afghanistan",
+          "id": "14371",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "U.S. and Taliban Make Headway in Talks for Withdrawal From Afghanistan",
+          "id": "82545",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "As the Taliban Menace Afghanistan, the Helmand River Offers Solace",
+          "id": "63432",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Taliban Keep Up Attacks on Officials in Afghanistan",
+          "id": "30212",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Afghanistan: Taliban Deny Reports of Leaderâs Death, Citing Hacking",
+          "id": "22686",
+          "match_score": 4,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Afghan Officers, Said to Be Working for Taliban, Kill 11 of Their Police Colleagues",
+          "id": "46083",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Robert Richards, Marine Guilty in Taliban Desecration, Dies at 28",
+          "id": "46332",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "After U.S. Talks With Afghanistan, Hints at a Harder Line on Pakistan",
+          "id": "71899",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Pakistan Releases Taliban Commander to Help Afghan Peace Efforts",
+          "id": "38367",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "U.N. Removes 5 Taliban From Its Sanctions List",
+          "id": "15833",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Militants Kill 15 in Afghan Attacks, as Taliban Expand Their Control",
+          "id": "78171",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "In Advance of Cease-Fires, Bombings in Afghanistan Kill at Least 18",
+          "id": "78721",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "China Shows Interest in Afghan Security, Fearing Taliban Would Help Separatists",
+          "id": "28938",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "9 Killed in Coordinated Attacks in Afghanistan",
+          "id": "7969",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Terrorism Suspect Is Captured in a Raid in Afghanistan",
+          "id": "20871",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Afghan Taliban Cede Ground in the South, but Fears Linger",
+          "id": "21963",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        },
+        {
+          "title": "Rare Attacks on Shiites Kill Scores in Afghanistan",
+          "id": "25419",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "AFGHANISTAN"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 25
+      }
+    },
+    {
+      "topic_num": 13,
+      "summary": "The article discusses rising tensions between Britain and Russia over a British cultural organization's defiance of a Russian government order to close its offices.",
+      "keywords": [
+        "Russia",
+        "Great Britain",
+        "Foreign Service",
+        "British Council"
+      ],
+      "keyword_count": 4,
+      "meets_requirements": false,
+      "source_titles_with_ids": [
+        {
+          "title": "Russia and NATO Work to Repair Frayed Ties",
+          "id": "8752",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Amid Fence-Mending, Another U.S.-Russia Rift",
+          "id": "41481",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Russia: Banker Blames Rival For Raid",
+          "id": "17435",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Governor in Russia Is Ousted by Kremlin",
+          "id": "7078",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Russia Seems To Soften Its Support For Syria",
+          "id": "27450",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "John Kerry Criticizes Russia, Saying It âTurned a Blind Eyeâ?on Syria",
+          "id": "68446",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "For Putin, the âSummit He Has Dreamed of for 18 Yearsâ?,Foreign,President Vladimir V. Putin of Russia got what he wanted most from his meeting with President Trump: American affirmation of his status as a global power.,2018-07-16 23:14:49+00:00,['Russia'",
+          "id": "79277",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "In a Fight Over Names, Russia Vetoes a U.N. Mission Inside Disputed Territory",
+          "id": "8543",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Ukraine: Russia Seizes Leaderâs Assets",
+          "id": "53064",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Russia: Investigator Wounded During Bomb Inquiry",
+          "id": "11426",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Despite Focus on Spectacle, Russia Hints Spy Case Wonât Disrupt U.S. Ties",
+          "id": "35802",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Russia: Day of Mourning for Victims of Fire",
+          "id": "11542",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Russia Sends Vehicles to Syrian Port to Aid in Removal of Chemical Weapons Stockpile",
+          "id": "40267",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "With Military Moves Seen in Ukraine, Obama Warns Russia",
+          "id": "41652",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Rex Tillersonâs Company, Exxon, Has Billions at Stake Over Sanctions on Russia",
+          "id": "69715",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Russia Says Aleppo Combat Has Ceased; Residents Disagree",
+          "id": "69647",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "An Artist From Russia Disappears in Berlin",
+          "id": "1318",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Russia: Georgian Allegations Dismissed",
+          "id": "18079",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Russia Calls for Meeting With Syrian Opposition",
+          "id": "32932",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Russia Warns of Retaliation Over U.S. Ruling on a Jewish Collection",
+          "id": "33301",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "U.S.-Russia Talks on Syriaâs Arms Make Progress",
+          "id": "38205",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Ukraine Strategy Bets on Restraint by Russia",
+          "id": "46171",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Further Signs of Russia Conciliation in Missile Talks",
+          "id": "1230",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "Migrant Worker Decapitated in Russia",
+          "id": "5439",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        },
+        {
+          "title": "7 Dead and Dozens Missing in Russia Building Collapse",
+          "id": "82136",
+          "match_score": 2,
+          "matched_keywords": [
+            "Russia"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 25
+      }
+    }
+  ],
+  "raw_response": "[\n    {\n        \"Topic 1\": {\n            \"Summary\": \"The article discusses the death of Bert Bolin, a pioneering climatologist and the first chairman of the United Nations Intergovernmental Panel on Climate Change.\",\n            \"Keywords\": [\"Bert Bolin\", \"Climatologist\", \"United Nations\", \"Global Warming\", \"Science and Technology\"],\n            \"Source Titles\": [\"Bert Bolin, 82, Is Dead; Led U.N. Climate Panel\"]\n        }\n    },\n    {\n        \"Topic 2\": {\n            \"Summary\": \"The article reports on a DNA analysis that indicated a 3-year-old boy born in the Colombian jungle to a kidnapped woman may have been living near his relatives all along.\",\n            \"Keywords\": [\"DNA analysis\", \"Colombia\", \"Kidnapping\", \"Civil War and Guerrilla Warfare\"],\n            \"Source Titles\": [\"DNA Suggests That Boy in Chávez Rescue Effort Was Long Gone From Jungle Rebels\"]\n        }\n    },\n    {\n        \"Topic 3\": {\n            \"Summary\": \"The article discusses the expansion of the U.S. detention center at Bagram military base in Afghanistan despite efforts to scale it back.\",\n            \"Keywords\": [\"Afghanistan\", \"Military Bases and Installations\", \"Prisons and Prisoners\", \"Guantanamo Bay\"],\n            \"Source Titles\": [\"Foiling U.S. Plan, Prison Expands in Afghanistan\"]\n        }\n    },\n    {\n        \"Topic 4\": {\n            \"Summary\": \"The article reports on a rift emerging between President Mahmoud Ahmadinejad and Iran's supreme religious leader, Ayatollah Ali Khamenei.\",\n            \"Keywords\": [\"Iran\", \"Appointments and Executive Changes\", \"Khamenei\", \"Ahmadinejad\"],\n            \"Source Titles\": [\"A President’s Defender Keeps His Distance\"]\n        }\n    },\n    {\n        \"Topic 5\": {\n            \"Summary\": \"The article discusses Philip Agee, a former CIA officer who exposed undercover American spies overseas before his death at 72.\",\n            \"Keywords\": [\"Intelligence Services\", \"Cuba\", \"Central Intelligence Agency\", \"Deaths (Obituaries)\"],\n            \"Source Titles\": [\"Philip Agee, 72, Is Dead; Exposed Other C.I.A. Officers\"]\n        }\n    },\n    {\n        \"Topic 6\": {\n            \"Summary\": \"The article reports on a previously undisclosed incident involving the use of gas by Blackwater private security contractors in Iraq.\",\n            \"Keywords\": [\"Helicopters\", \"Iraq\", \"Accidents and Safety\", \"Hazardous and Toxic Substances\", \"Mercenaries\"],\n            \"Source Titles\": [\"2005 Use of Gas by Blackwater Leaves Questions\"]\n        }\n    },\n    {\n        \"Topic 7\": {\n            \"Summary\": \"The article discusses the seizure of Radovan Karadzic's family members' passports by Bosnian Serb police at the request of the international war crimes court.\",\n            \"Keywords\": [\"Karadzic\", \"Radovan\", \"War Crimes\", \"Genocide and Crimes Against Humanity\", \"Bosnia and Herzegovina\"],\n            \"Source Titles\": [\"Bosnia: Police Take Passports of Karadzic Family\"]\n        }\n    },\n    {\n        \"Topic 8\": {\n            \"Summary\": \"The article reports on the United States and Germany's agreement to recognize Kosovo after it declares independence.\",\n            \"Keywords\": [\"KOSOVO (SERBIA)\"],\n            \"Source Titles\": [\"U.S. and Germany Plan to Recognize Kosovo\"]\n        }\n    },\n    {\n        \"Topic 9\": {\n            \"Summary\": \"The article discusses the United States' efforts to urge North Korea to provide a complete and correct accounting of its nuclear weapons programs.\",\n            \"Keywords\": [\"North Korea\", \"UNITED STATES ARMAMENT AND DEFENSE\", \"ATOMIC WEAPONS\"],\n            \"Source Titles\": [\"U.S. Nuclear Envoy Puts Gentle Pressure on North Korea\"]\n        }\n    },\n    {\n        \"Topic 10\": {\n            \"Summary\": \"The article reports on Taiwan's preparations for its first major election in 2008 and China's condemnation of the referendum.\",\n            \"Keywords\": [\"China\", \"Chen Shui-Bian\", \"Taiwan\", \"Elections\"],\n            \"Source Titles\": [\"Taiwan Prepares for First of 2 Major 2008 Elections\"]\n        }\n    },\n    {\n        \"Topic 11\": {\n            \"Summary\": \"The article discusses a French court's rejection of Cécilia Sarkozy's attempt to block the publication of a book critical of her ex-husband, President Nicolas Sarkozy.\",\n            \"Keywords\": [\"France\", \"Sarkozy\", \"Nicolas\"],\n            \"Source Titles\": [\"France: Sarkozy’s Ex Loses Bid to Bar Book\"]\n        }\n    },\n    {\n        \"Topic 12\": {\n            \"Summary\": \"The article reports on a clash between allied Afghan soldiers and Dutch troops, resulting in the deaths of 15 people.\",\n            \"Keywords\": [\"Netherlands\", \"North Atlantic Treaty Organization\", \"Taliban\", \"AFGHANISTAN\", \"Attacks on Police\"],\n            \"Source Titles\": [\"Error by Allies and 2 Clashes Kill 15 in South of Afghanistan\"]\n        }\n    },\n    {\n        \"Topic 13\": {\n        \"Summary\": \"The article discusses rising tensions between Britain and Russia over a British cultural organization's defiance of a Russian government order to close its offices.\",\n        \"Keywords\": [\"Russia\", \"Great Britain\", \"Foreign Service\", \"British Council\"],\n        \"Source Titles\": [\"British-Russian Tension Escalates\"]\n        }\n    ]\n```",
+  "all_responses": [
+    "[\n    {\n        \"Topic 1\": {\n            \"Summary\": \"The article discusses the death of Bert Bolin, a pioneering climatologist and the first chairman of the United Nations Intergovernmental Panel on Climate Change.\",\n            \"Keywords\": [\"Bert Bolin\", \"Climatologist\", \"United Nations\", \"Global Warming\", \"Science and Technology\"],\n            \"Source Titles\": [\"Bert Bolin, 82, Is Dead; Led U.N. Climate Panel\"]\n        }\n    },\n    {\n        \"Topic 2\": {\n            \"Summary\": \"The article reports on a DNA analysis that indicated a 3-year-old boy born in the Colombian jungle to a kidnapped woman may have been living near his relatives all along.\",\n            \"Keywords\": [\"DNA analysis\", \"Colombia\", \"Kidnapping\", \"Civil War and Guerrilla Warfare\"],\n            \"Source Titles\": [\"DNA Suggests That Boy in Chávez Rescue Effort Was Long Gone From Jungle Rebels\"]\n        }\n    },\n    {\n        \"Topic 3\": {\n            \"Summary\": \"The article discusses the expansion of the U.S. detention center at Bagram military base in Afghanistan despite efforts to scale it back.\",\n            \"Keywords\": [\"Afghanistan\", \"Military Bases and Installations\", \"Prisons and Prisoners\", \"Guantanamo Bay\"],\n            \"Source Titles\": [\"Foiling U.S. Plan, Prison Expands in Afghanistan\"]\n        }\n    },\n    {\n        \"Topic 4\": {\n            \"Summary\": \"The article reports on a rift emerging between President Mahmoud Ahmadinejad and Iran's supreme religious leader, Ayatollah Ali Khamenei.\",\n            \"Keywords\": [\"Iran\", \"Appointments and Executive Changes\", \"Khamenei\", \"Ahmadinejad\"],\n            \"Source Titles\": [\"A President’s Defender Keeps His Distance\"]\n        }\n    },\n    {\n        \"Topic 5\": {\n            \"Summary\": \"The article discusses Philip Agee, a former CIA officer who exposed undercover American spies overseas before his death at 72.\",\n            \"Keywords\": [\"Intelligence Services\", \"Cuba\", \"Central Intelligence Agency\", \"Deaths (Obituaries)\"],\n            \"Source Titles\": [\"Philip Agee, 72, Is Dead; Exposed Other C.I.A. Officers\"]\n        }\n    },\n    {\n        \"Topic 6\": {\n            \"Summary\": \"The article reports on a previously undisclosed incident involving the use of gas by Blackwater private security contractors in Iraq.\",\n            \"Keywords\": [\"Helicopters\", \"Iraq\", \"Accidents and Safety\", \"Hazardous and Toxic Substances\", \"Mercenaries\"],\n            \"Source Titles\": [\"2005 Use of Gas by Blackwater Leaves Questions\"]\n        }\n    },\n    {\n        \"Topic 7\": {\n            \"Summary\": \"The article discusses the seizure of Radovan Karadzic's family members' passports by Bosnian Serb police at the request of the international war crimes court.\",\n            \"Keywords\": [\"Karadzic\", \"Radovan\", \"War Crimes\", \"Genocide and Crimes Against Humanity\", \"Bosnia and Herzegovina\"],\n            \"Source Titles\": [\"Bosnia: Police Take Passports of Karadzic Family\"]\n        }\n    },\n    {\n        \"Topic 8\": {\n            \"Summary\": \"The article reports on the United States and Germany's agreement to recognize Kosovo after it declares independence.\",\n            \"Keywords\": [\"KOSOVO (SERBIA)\"],\n            \"Source Titles\": [\"U.S. and Germany Plan to Recognize Kosovo\"]\n        }\n    },\n    {\n        \"Topic 9\": {\n            \"Summary\": \"The article discusses the United States' efforts to urge North Korea to provide a complete and correct accounting of its nuclear weapons programs.\",\n            \"Keywords\": [\"North Korea\", \"UNITED STATES ARMAMENT AND DEFENSE\", \"ATOMIC WEAPONS\"],\n            \"Source Titles\": [\"U.S. Nuclear Envoy Puts Gentle Pressure on North Korea\"]\n        }\n    },\n    {\n        \"Topic 10\": {\n            \"Summary\": \"The article reports on Taiwan's preparations for its first major election in 2008 and China's condemnation of the referendum.\",\n            \"Keywords\": [\"China\", \"Chen Shui-Bian\", \"Taiwan\", \"Elections\"],\n            \"Source Titles\": [\"Taiwan Prepares for First of 2 Major 2008 Elections\"]\n        }\n    },\n    {\n        \"Topic 11\": {\n            \"Summary\": \"The article discusses a French court's rejection of Cécilia Sarkozy's attempt to block the publication of a book critical of her ex-husband, President Nicolas Sarkozy.\",\n            \"Keywords\": [\"France\", \"Sarkozy\", \"Nicolas\"],\n            \"Source Titles\": [\"France: Sarkozy’s Ex Loses Bid to Bar Book\"]\n        }\n    },\n    {\n        \"Topic 12\": {\n            \"Summary\": \"The article reports on a clash between allied Afghan soldiers and Dutch troops, resulting in the deaths of 15 people.\",\n            \"Keywords\": [\"Netherlands\", \"North Atlantic Treaty Organization\", \"Taliban\", \"AFGHANISTAN\", \"Attacks on Police\"],\n            \"Source Titles\": [\"Error by Allies and 2 Clashes Kill 15 in South of Afghanistan\"]\n        }\n    },\n    {\n        \"Topic 13\": {\n        \"Summary\": \"The article discusses rising tensions between Britain and Russia over a British cultural organization's defiance of a Russian government order to close its offices.\",\n        \"Keywords\": [\"Russia\", \"Great Britain\", \"Foreign Service\", \"British Council\"],\n        \"Source Titles\": [\"British-Russian Tension Escalates\"]\n        }\n    ]\n```"
+  ],
+  "retry_info": {
+    "total_retries": 1,
+    "format_parse_failed": false
+  },
+  "cost_analysis": {
+    "model": "meta-llama/llama-4-maverick",
+    "input_tokens": 792991,
+    "output_tokens": 1475,
+    "estimated_cost": 0.12744865,
+    "actual_cost": 0.12020239999999999,
+    "cost_info": "总计: $0.120202"
+  }
+}

@@ -1,0 +1,939 @@
+{
+  "file_path": "C:/Users/1/Desktop/ta/dataset/NYT_Dataset.csv",
+  "total_topics": 50,
+  "topics": [
+    {
+      "topic_num": 1,
+      "summary": "Innovations in affordable medical prosthetics for developing countries.",
+      "keywords": [
+        "India",
+        "Jaipur foot",
+        "prosthesis",
+        "amputees",
+        "Dr. P. K. Sethi"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "P. K. Sethi, Inventor of the Low-Tech Limb, Is Dead at 80",
+          "id": "87"
+        }
+      ]
+    },
+    {
+      "topic_num": 2,
+      "summary": "Religious and political tensions within Orthodox Christianity in Europe.",
+      "keywords": [
+        "Russian Orthodox Church",
+        "Moscow",
+        "France",
+        "Putin",
+        "Vladimir V"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": []
+    },
+    {
+      "topic_num": 3,
+      "summary": "Middle Eastern conflicts and U.S. foreign policy impacts.",
+      "keywords": [
+        "Palestinians",
+        "Israel",
+        "Bush",
+        "George W",
+        "West Bank"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Many Palestinians Offer a Bleak Opinion of Bush",
+          "id": "130"
+        }
+      ]
+    },
+    {
+      "topic_num": 4,
+      "summary": "International military engagements and geopolitical strategies.",
+      "keywords": [
+        "Afghanistan",
+        "Japan",
+        "refueling mission",
+        "navy",
+        "Fukuda"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Japan Approves Bill on Afghan War",
+          "id": "169"
+        }
+      ]
+    },
+    {
+      "topic_num": 5,
+      "summary": "Diplomatic relations and human rights issues in the Middle East.",
+      "keywords": [
+        "Egypt",
+        "Mubarak",
+        "dissent",
+        "Bush",
+        "United Arab Emirates"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Bush Lauds Egypt Leader, Avoiding Record on Dissent",
+          "id": "235"
+        }
+      ]
+    },
+    {
+      "topic_num": 6,
+      "summary": "Religious conflicts and violence in Iraq.",
+      "keywords": [
+        "Iraq",
+        "Shiite Muslims",
+        "Karbala",
+        "Mahdi Army",
+        "Sadr"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Despite Deadly Clashes in Iraq, Shiite Pilgrims Spared",
+          "id": "282"
+        }
+      ]
+    },
+    {
+      "topic_num": 7,
+      "summary": "Military contract failures and oversight in Iraq.",
+      "keywords": [
+        "Iraq",
+        "defense contracts",
+        "Army Corps of Engineers",
+        "oversight"
+      ],
+      "keyword_count": 4,
+      "meets_requirements": false,
+      "source_titles_with_ids": []
+    },
+    {
+      "topic_num": 8,
+      "summary": "Historical diplomatic relations between China and the U.S.",
+      "keywords": [
+        "China",
+        "Nixon",
+        "Mao",
+        "Zhang Hanzhi",
+        "Cultural Revolution"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": []
+    },
+    {
+      "topic_num": 9,
+      "summary": "Cross-border military actions and regional conflicts.",
+      "keywords": [
+        "Turkey",
+        "Kurds",
+        "Iraq",
+        "bombing",
+        "Kurdistan Workers Party"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Turkish Jets Bomb Northern Iraq",
+          "id": "546"
+        }
+      ]
+    },
+    {
+      "topic_num": 10,
+      "summary": "High-profile art thefts and security breaches.",
+      "keywords": [
+        "art theft",
+        "Zurich",
+        "van Gogh",
+        "Monet",
+        "Degas"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "At Zurich Museum, a Theft of 4 Masterworks",
+          "id": "653"
+        }
+      ]
+    },
+    {
+      "topic_num": 11,
+      "summary": "Social changes and evolving traditions in India.",
+      "keywords": [
+        "India",
+        "divorce",
+        "marriage",
+        "social mores",
+        "women"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": []
+    },
+    {
+      "topic_num": 12,
+      "summary": "Political rhetoric and international relations involving Cuba.",
+      "keywords": [
+        "Cuba",
+        "Castro",
+        "Fidel",
+        "U.S. relations",
+        "retirement"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Castro, Nearly Retired, Keeps Busy With a Few Pokes at U.S.",
+          "id": "831"
+        }
+      ]
+    },
+    {
+      "topic_num": 13,
+      "summary": "Global environmental agreements and U.S. policy.",
+      "keywords": [
+        "global warming",
+        "treaties",
+        "Bush administration",
+        "Europe"
+      ],
+      "keyword_count": 4,
+      "meets_requirements": false,
+      "source_titles_with_ids": [
+        {
+          "title": "Binding Emissions Treaty Still a Possibility, U.S. Says",
+          "id": "872"
+        }
+      ]
+    },
+    {
+      "topic_num": 14,
+      "summary": "Government transparency and historical records release.",
+      "keywords": [
+        "Great Britain",
+        "Iraq",
+        "Blair",
+        "cabinet meetings",
+        "legality"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "British Government Ordered to Release Notes on Iraq",
+          "id": "894"
+        }
+      ]
+    },
+    {
+      "topic_num": 15,
+      "summary": "Border conflicts and international diplomacy.",
+      "keywords": [
+        "Turkey",
+        "Iraq",
+        "Kurds",
+        "Gates",
+        "Robert M"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Gates Urges Limits on Turkish Raids",
+          "id": "910"
+        }
+      ]
+    },
+    {
+      "topic_num": 16,
+      "summary": "Legal disputes and media freedom in Europe.",
+      "keywords": [
+        "libel",
+        "Northern Ireland",
+        "newspaper",
+        "restaurant",
+        "court"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Britain: Restaurant Libel Quashed",
+          "id": "1080"
+        }
+      ]
+    },
+    {
+      "topic_num": 17,
+      "summary": "U.S. foreign policy and military engagements.",
+      "keywords": [
+        "Bush",
+        "Iraq",
+        "Afghanistan",
+        "freedom",
+        "Christian broadcasters"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Bush Defends Wars, Citing Freedom",
+          "id": "1101"
+        }
+      ]
+    },
+    {
+      "topic_num": 18,
+      "summary": "Health and political legacies of former leaders.",
+      "keywords": [
+        "Philippines",
+        "Aquino",
+        "Corazon",
+        "cancer",
+        "president"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Former Philippine Leader Diagnosed With Cancer",
+          "id": "1262"
+        }
+      ]
+    },
+    {
+      "topic_num": 19,
+      "summary": "Drug trafficking and law enforcement in Mexico.",
+      "keywords": [
+        "Mexico",
+        "drug cartels",
+        "Zetas",
+        "arrests",
+        "Nuevo Laredo"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Mexico: Federal Agents Seize Millions and Arrest 6",
+          "id": "1434"
+        }
+      ]
+    },
+    {
+      "topic_num": 20,
+      "summary": "Historical mysteries and wartime events.",
+      "keywords": [
+        "World War II",
+        "Saint-Exupéry",
+        "Little Prince",
+        "pilot",
+        "Mediterranean"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Clues to the Mystery of a Writer Pilot Who Disappeared",
+          "id": "1526"
+        }
+      ]
+    },
+    {
+      "topic_num": 21,
+      "summary": "Terrorist attacks and military responses in Afghanistan.",
+      "keywords": [
+        "Afghanistan",
+        "suicide bomber",
+        "Taliban",
+        "mosque",
+        "police"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Suicide Bomber Kills 23 in Remote Afghan Province",
+          "id": "1638"
+        }
+      ]
+    },
+    {
+      "topic_num": 22,
+      "summary": "Political instability and refugee crises in Africa.",
+      "keywords": [
+        "Zimbabwe",
+        "South Africa",
+        "Mugabe",
+        "refugees",
+        "violence"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Human Wave Flees Violence in Zimbabwe",
+          "id": "1684"
+        }
+      ]
+    },
+    {
+      "topic_num": 23,
+      "summary": "Prison security failures and terrorism.",
+      "keywords": [
+        "Singapore",
+        "prison escape",
+        "terror suspect",
+        "government commission"
+      ],
+      "keyword_count": 4,
+      "meets_requirements": false,
+      "source_titles_with_ids": [
+        {
+          "title": "Terror Suspect Fled Prison Through Window, Singapore Says",
+          "id": "1701"
+        }
+      ]
+    },
+    {
+      "topic_num": 24,
+      "summary": "Military conflicts and insurgent groups in Iraq.",
+      "keywords": [
+        "Baghdad",
+        "Iran",
+        "Shiite groups",
+        "U.S. military",
+        "Sadr"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": []
+    },
+    {
+      "topic_num": 25,
+      "summary": "International events and human rights controversies.",
+      "keywords": [
+        "Olympics",
+        "Hong Kong",
+        "Darfur",
+        "torch relay",
+        "protests"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Hong Kong Embraces Olympic Torch",
+          "id": "1866"
+        }
+      ]
+    },
+    {
+      "topic_num": 26,
+      "summary": "Culinary arts and cultural heritage.",
+      "keywords": [
+        "France",
+        "cuisine",
+        "restaurant",
+        "Haeberlin",
+        "Alsace"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Paul Haeberlin, 3-Star Chef, Dies at 84",
+          "id": "2031"
+        }
+      ]
+    },
+    {
+      "topic_num": 27,
+      "summary": "Military justice and international incidents.",
+      "keywords": [
+        "marine",
+        "court martial",
+        "Japan",
+        "sex abuse",
+        "Fukuda"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Marine Given 4 Years in Sex Case",
+          "id": "2103"
+        }
+      ]
+    },
+    {
+      "topic_num": 28,
+      "summary": "Guerrilla movements and peace processes.",
+      "keywords": [
+        "Colombia",
+        "FARC",
+        "rebel commander",
+        "surrender",
+        "civil war"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Colombia: Rebel Commander Surrenders",
+          "id": "2162"
+        }
+      ]
+    },
+    {
+      "topic_num": 29,
+      "summary": "Demographic challenges and rural development.",
+      "keywords": [
+        "Japan",
+        "population decline",
+        "Hokkaido",
+        "land use",
+        "real estate"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Despite Land for the Taking, No Cry of Northward Ho",
+          "id": "2391"
+        }
+      ]
+    },
+    {
+      "topic_num": 30,
+      "summary": "Insurgency and civilian casualties in Iraq.",
+      "keywords": [
+        "Baghdad",
+        "insurgents",
+        "civilian deaths",
+        "military base",
+        "bombs"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Explosions and Shootings Disrupt Relative Calm in Iraq",
+          "id": "2422"
+        }
+      ]
+    },
+    {
+      "topic_num": 31,
+      "summary": "Human rights violations and international law.",
+      "keywords": [
+        "Syria",
+        "torture",
+        "deportation",
+        "Justice Department",
+        "rendition"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Justice Dept. Investigating Deportation to Syria",
+          "id": "2444"
+        }
+      ]
+    },
+    {
+      "topic_num": 32,
+      "summary": "Immigration policies and economic impacts in Europe.",
+      "keywords": [
+        "Spain",
+        "immigration",
+        "illegal immigrants",
+        "labor",
+        "economic growth"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Spain, Like U.S., Grapples With Immigration",
+          "id": "2515"
+        }
+      ]
+    },
+    {
+      "topic_num": 33,
+      "summary": "Labor strikes and economic protests.",
+      "keywords": [
+        "South Korea",
+        "truckers",
+        "fuel costs",
+        "strike",
+        "demonstrations"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "South Korean Truckers Strike to Protest Rising Fuel Costs",
+          "id": "2597"
+        }
+      ]
+    },
+    {
+      "topic_num": 34,
+      "summary": "Natural disasters and government responses.",
+      "keywords": [
+        "China",
+        "earthquake",
+        "Sichuan",
+        "death toll",
+        "government"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Chinese Quake Toll, 69,172, Is Just a Guess",
+          "id": "2642"
+        }
+      ]
+    },
+    {
+      "topic_num": 35,
+      "summary": "Military operations and civilian impacts in Iraq.",
+      "keywords": [
+        "Mosul",
+        "Iraq",
+        "bombs",
+        "al-Qaeda",
+        "Sunni Muslims"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "8 Civilians Killed in 2 Disputed Attacks, Iraq Says",
+          "id": "2774"
+        }
+      ]
+    },
+    {
+      "topic_num": 36,
+      "summary": "International sanctions and diplomatic conflicts.",
+      "keywords": [
+        "Zimbabwe",
+        "UN",
+        "sanctions",
+        "Russia",
+        "China"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "2 Vetoes Quash U.N. Sanctions on Zimbabwe",
+          "id": "2991"
+        }
+      ]
+    },
+    {
+      "topic_num": 37,
+      "summary": "Oil deals and political controversies.",
+      "keywords": [
+        "Kurds",
+        "Iraq",
+        "oil",
+        "State Department",
+        "Hunt Oil"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": []
+    },
+    {
+      "topic_num": 38,
+      "summary": "Terrorism and security concerns in China.",
+      "keywords": [
+        "China",
+        "Uighur",
+        "Olympics",
+        "bombs",
+        "terrorism"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "China Doubts Bus Blasts Are Linked to Separatists",
+          "id": "3236"
+        }
+      ]
+    },
+    {
+      "topic_num": 39,
+      "summary": "Environmental policies and international events.",
+      "keywords": [
+        "China",
+        "pollution",
+        "Olympics",
+        "Beijing",
+        "factories"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "China Announces More Pollution Controls",
+          "id": "3298"
+        }
+      ]
+    },
+    {
+      "topic_num": 40,
+      "summary": "Military alliances and geopolitical tensions.",
+      "keywords": [
+        "Poland",
+        "missile defense",
+        "Russia",
+        "NATO",
+        "Bush"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "U.S. and Poland Set Missile Deal",
+          "id": "3517"
+        }
+      ]
+    },
+    {
+      "topic_num": 41,
+      "summary": "Space technology and international relations.",
+      "keywords": [
+        "Iran",
+        "satellites",
+        "rocket",
+        "Muslim countries",
+        "technology"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Iran Offers to Launch Satellites",
+          "id": "3566"
+        }
+      ]
+    },
+    {
+      "topic_num": 42,
+      "summary": "Territorial disputes and international recognition.",
+      "keywords": [
+        "Russia",
+        "Georgia",
+        "South Ossetia",
+        "Abkhazia",
+        "independence"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Enclave Hails Tight Embrace From Moscow",
+          "id": "3690"
+        }
+      ]
+    },
+    {
+      "topic_num": 43,
+      "summary": "Nuclear energy and international diplomacy.",
+      "keywords": [
+        "India",
+        "nuclear power",
+        "State Department",
+        "Singh",
+        "Manmohan"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "U.S. Letter Incites Push to Oust India Leader",
+          "id": "3843"
+        }
+      ]
+    },
+    {
+      "topic_num": 44,
+      "summary": "Media coverage of insurgent groups.",
+      "keywords": [
+        "France",
+        "Taliban",
+        "magazine",
+        "soldiers",
+        "Afghanistan"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "France: Magazine Showcases Taliban",
+          "id": "3850"
+        }
+      ]
+    },
+    {
+      "topic_num": 45,
+      "summary": "Natural disasters and regional impacts.",
+      "keywords": [
+        "hurricane",
+        "Caribbean",
+        "Ike",
+        "Gustav",
+        "Haiti"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Hurricane Ike Smashes West Through Caribbean",
+          "id": "3891"
+        }
+      ]
+    },
+    {
+      "topic_num": 46,
+      "summary": "Terrorism trials and legal outcomes.",
+      "keywords": [
+        "terror plot",
+        "London",
+        "airliners",
+        "bombs",
+        "verdicts"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "No One Convicted of Terror Plot to Bomb Planes",
+          "id": "3904"
+        }
+      ]
+    },
+    {
+      "topic_num": 47,
+      "summary": "Public health policies and government actions.",
+      "keywords": [
+        "Russia",
+        "smoking",
+        "population",
+        "birthrate",
+        "tobacco"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Wary of Protests, Russia Puts Few Limits on Smoking",
+          "id": "3925"
+        }
+      ]
+    },
+    {
+      "topic_num": 48,
+      "summary": "International finance and geopolitical alliances.",
+      "keywords": [
+        "Georgia",
+        "Russia",
+        "Asian Development Bank",
+        "loan",
+        "China"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Loan to Georgia Illustrates Asian Dismay With Russia",
+          "id": "3977"
+        }
+      ]
+    },
+    {
+      "topic_num": 49,
+      "summary": "Tourism accidents and safety investigations.",
+      "keywords": [
+        "Paris",
+        "tourist boat",
+        "Seine",
+        "accident",
+        "deaths"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Two Die After Paris Tourist Boat Sinks",
+          "id": "4005"
+        }
+      ]
+    },
+    {
+      "topic_num": 50,
+      "summary": "Historical figures and public memory.",
+      "keywords": [
+        "Germany",
+        "Hitler",
+        "wax museum",
+        "Tussauds",
+        "protest"
+      ],
+      "keyword_count": 5,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Germany: Wax Hitler Back at Museum",
+          "id": "4030"
+        }
+      ]
+    }
+  ],
+  "raw_response": "Here is the thematic analysis of the provided text data, organized into 50 topics with summaries, keywords, and source titles:\n\n```json\n[\n    {\n        \"Topic 1\": {\n            \"Summary\": \"Innovations in affordable medical prosthetics for developing countries.\",\n            \"Keywords\": [\"India\", \"Jaipur foot\", \"prosthesis\", \"amputees\", \"Dr. P. K. Sethi\"],\n            \"Source Titles\": [\"P. K. Sethi, Inventor of the Low-Tech Limb, Is Dead at 80\"]\n        }\n    },\n    {\n        \"Topic 2\": {\n            \"Summary\": \"Religious and political tensions within Orthodox Christianity in Europe.\",\n            \"Keywords\": [\"Russian Orthodox Church\", \"Moscow\", \"France\", \"Putin\", \"Vladimir V\"],\n            \"Source Titles\": [\"A Cathedral Resists the Label ‘Property of Russia’\"]\n        }\n    },\n    {\n        \"Topic 3\": {\n            \"Summary\": \"Middle Eastern conflicts and U.S. foreign policy impacts.\",\n            \"Keywords\": [\"Palestinians\", \"Israel\", \"Bush\", \"George W\", \"West Bank\"],\n            \"Source Titles\": [\"Many Palestinians Offer a Bleak Opinion of Bush\"]\n        }\n    },\n    {\n        \"Topic 4\": {\n            \"Summary\": \"International military engagements and geopolitical strategies.\",\n            \"Keywords\": [\"Afghanistan\", \"Japan\", \"refueling mission\", \"navy\", \"Fukuda\"],\n            \"Source Titles\": [\"Japan Approves Bill on Afghan War\"]\n        }\n    },\n    {\n        \"Topic 5\": {\n            \"Summary\": \"Diplomatic relations and human rights issues in the Middle East.\",\n            \"Keywords\": [\"Egypt\", \"Mubarak\", \"dissent\", \"Bush\", \"United Arab Emirates\"],\n            \"Source Titles\": [\"Bush Lauds Egypt Leader, Avoiding Record on Dissent\"]\n        }\n    },\n    {\n        \"Topic 6\": {\n            \"Summary\": \"Religious conflicts and violence in Iraq.\",\n            \"Keywords\": [\"Iraq\", \"Shiite Muslims\", \"Karbala\", \"Mahdi Army\", \"Sadr\"],\n            \"Source Titles\": [\"Despite Deadly Clashes in Iraq, Shiite Pilgrims Spared\"]\n        }\n    },\n    {\n        \"Topic 7\": {\n            \"Summary\": \"Military contract failures and oversight in Iraq.\",\n            \"Keywords\": [\"Iraq\", \"defense contracts\", \"Army Corps of Engineers\", \"oversight\"],\n            \"Source Titles\": [\"An American Builder’s Failures in Iraq Are Found to Have Been More Widespread\"]\n        }\n    },\n    {\n        \"Topic 8\": {\n            \"Summary\": \"Historical diplomatic relations between China and the U.S.\",\n            \"Keywords\": [\"China\", \"Nixon\", \"Mao\", \"Zhang Hanzhi\", \"Cultural Revolution\"],\n            \"Source Titles\": [\"Zhang Hanzhi, Mao’s Tutor, Is Dead at 72\"]\n        }\n    },\n    {\n        \"Topic 9\": {\n            \"Summary\": \"Cross-border military actions and regional conflicts.\",\n            \"Keywords\": [\"Turkey\", \"Kurds\", \"Iraq\", \"bombing\", \"Kurdistan Workers Party\"],\n            \"Source Titles\": [\"Turkish Jets Bomb Northern Iraq\"]\n        }\n    },\n    {\n        \"Topic 10\": {\n            \"Summary\": \"High-profile art thefts and security breaches.\",\n            \"Keywords\": [\"art theft\", \"Zurich\", \"van Gogh\", \"Monet\", \"Degas\"],\n            \"Source Titles\": [\"At Zurich Museum, a Theft of 4 Masterworks\"]\n        }\n    },\n    {\n        \"Topic 11\": {\n            \"Summary\": \"Social changes and evolving traditions in India.\",\n            \"Keywords\": [\"India\", \"divorce\", \"marriage\", \"social mores\", \"women\"],\n            \"Source Titles\": [\"As Mores Evolve, India’s Divorced Seek Second Chance\"]\n        }\n    },\n    {\n        \"Topic 12\": {\n            \"Summary\": \"Political rhetoric and international relations involving Cuba.\",\n            \"Keywords\": [\"Cuba\", \"Castro\", \"Fidel\", \"U.S. relations\", \"retirement\"],\n            \"Source Titles\": [\"Castro, Nearly Retired, Keeps Busy With a Few Pokes at U.S.\"]\n        }\n    },\n    {\n        \"Topic 13\": {\n            \"Summary\": \"Global environmental agreements and U.S. policy.\",\n            \"Keywords\": [\"global warming\", \"treaties\", \"Bush administration\", \"Europe\"],\n            \"Source Titles\": [\"Binding Emissions Treaty Still a Possibility, U.S. Says\"]\n        }\n    },\n    {\n        \"Topic 14\": {\n            \"Summary\": \"Government transparency and historical records release.\",\n            \"Keywords\": [\"Great Britain\", \"Iraq\", \"Blair\", \"cabinet meetings\", \"legality\"],\n            \"Source Titles\": [\"British Government Ordered to Release Notes on Iraq\"]\n        }\n    },\n    {\n        \"Topic 15\": {\n            \"Summary\": \"Border conflicts and international diplomacy.\",\n            \"Keywords\": [\"Turkey\", \"Iraq\", \"Kurds\", \"Gates\", \"Robert M\"],\n            \"Source Titles\": [\"Gates Urges Limits on Turkish Raids\"]\n        }\n    },\n    {\n        \"Topic 16\": {\n            \"Summary\": \"Legal disputes and media freedom in Europe.\",\n            \"Keywords\": [\"libel\", \"Northern Ireland\", \"newspaper\", \"restaurant\", \"court\"],\n            \"Source Titles\": [\"Britain: Restaurant Libel Quashed\"]\n        }\n    },\n    {\n        \"Topic 17\": {\n            \"Summary\": \"U.S. foreign policy and military engagements.\",\n            \"Keywords\": [\"Bush\", \"Iraq\", \"Afghanistan\", \"freedom\", \"Christian broadcasters\"],\n            \"Source Titles\": [\"Bush Defends Wars, Citing Freedom\"]\n        }\n    },\n    {\n        \"Topic 18\": {\n            \"Summary\": \"Health and political legacies of former leaders.\",\n            \"Keywords\": [\"Philippines\", \"Aquino\", \"Corazon\", \"cancer\", \"president\"],\n            \"Source Titles\": [\"Former Philippine Leader Diagnosed With Cancer\"]\n        }\n    },\n    {\n        \"Topic 19\": {\n            \"Summary\": \"Drug trafficking and law enforcement in Mexico.\",\n            \"Keywords\": [\"Mexico\", \"drug cartels\", \"Zetas\", \"arrests\", \"Nuevo Laredo\"],\n            \"Source Titles\": [\"Mexico: Federal Agents Seize Millions and Arrest 6\"]\n        }\n    },\n    {\n        \"Topic 20\": {\n            \"Summary\": \"Historical mysteries and wartime events.\",\n            \"Keywords\": [\"World War II\", \"Saint-Exupéry\", \"Little Prince\", \"pilot\", \"Mediterranean\"],\n            \"Source Titles\": [\"Clues to the Mystery of a Writer Pilot Who Disappeared\"]\n        }\n    },\n    {\n        \"Topic 21\": {\n            \"Summary\": \"Terrorist attacks and military responses in Afghanistan.\",\n            \"Keywords\": [\"Afghanistan\", \"suicide bomber\", \"Taliban\", \"mosque\", \"police\"],\n            \"Source Titles\": [\"Suicide Bomber Kills 23 in Remote Afghan Province\"]\n        }\n    },\n    {\n        \"Topic 22\": {\n            \"Summary\": \"Political instability and refugee crises in Africa.\",\n            \"Keywords\": [\"Zimbabwe\", \"South Africa\", \"Mugabe\", \"refugees\", \"violence\"],\n            \"Source Titles\": [\"Human Wave Flees Violence in Zimbabwe\"]\n        }\n    },\n    {\n        \"Topic 23\": {\n            \"Summary\": \"Prison security failures and terrorism.\",\n            \"Keywords\": [\"Singapore\", \"prison escape\", \"terror suspect\", \"government commission\"],\n            \"Source Titles\": [\"Terror Suspect Fled Prison Through Window, Singapore Says\"]\n        }\n    },\n    {\n        \"Topic 24\": {\n            \"Summary\": \"Military conflicts and insurgent groups in Iraq.\",\n            \"Keywords\": [\"Baghdad\", \"Iran\", \"Shiite groups\", \"U.S. military\", \"Sadr\"],\n            \"Source Titles\": [\"Groups With Iran’s Backing Blamed for Baghdad Attacks\"]\n        }\n    },\n    {\n        \"Topic 25\": {\n            \"Summary\": \"International events and human rights controversies.\",\n            \"Keywords\": [\"Olympics\", \"Hong Kong\", \"Darfur\", \"torch relay\", \"protests\"],\n            \"Source Titles\": [\"Hong Kong Embraces Olympic Torch\"]\n        }\n    },\n    {\n        \"Topic 26\": {\n            \"Summary\": \"Culinary arts and cultural heritage.\",\n            \"Keywords\": [\"France\", \"cuisine\", \"restaurant\", \"Haeberlin\", \"Alsace\"],\n            \"Source Titles\": [\"Paul Haeberlin, 3-Star Chef, Dies at 84\"]\n        }\n    },\n    {\n        \"Topic 27\": {\n            \"Summary\": \"Military justice and international incidents.\",\n            \"Keywords\": [\"marine\", \"court martial\", \"Japan\", \"sex abuse\", \"Fukuda\"],\n            \"Source Titles\": [\"Marine Given 4 Years in Sex Case\"]\n        }\n    },\n    {\n        \"Topic 28\": {\n            \"Summary\": \"Guerrilla movements and peace processes.\",\n            \"Keywords\": [\"Colombia\", \"FARC\", \"rebel commander\", \"surrender\", \"civil war\"],\n            \"Source Titles\": [\"Colombia: Rebel Commander Surrenders\"]\n        }\n    },\n    {\n        \"Topic 29\": {\n            \"Summary\": \"Demographic challenges and rural development.\",\n            \"Keywords\": [\"Japan\", \"population decline\", \"Hokkaido\", \"land use\", \"real estate\"],\n            \"Source Titles\": [\"Despite Land for the Taking, No Cry of Northward Ho\"]\n        }\n    },\n    {\n        \"Topic 30\": {\n            \"Summary\": \"Insurgency and civilian casualties in Iraq.\",\n            \"Keywords\": [\"Baghdad\", \"insurgents\", \"civilian deaths\", \"military base\", \"bombs\"],\n            \"Source Titles\": [\"Explosions and Shootings Disrupt Relative Calm in Iraq\"]\n        }\n    },\n    {\n        \"Topic 31\": {\n            \"Summary\": \"Human rights violations and international law.\",\n            \"Keywords\": [\"Syria\", \"torture\", \"deportation\", \"Justice Department\", \"rendition\"],\n            \"Source Titles\": [\"Justice Dept. Investigating Deportation to Syria\"]\n        }\n    },\n    {\n        \"Topic 32\": {\n            \"Summary\": \"Immigration policies and economic impacts in Europe.\",\n            \"Keywords\": [\"Spain\", \"immigration\", \"illegal immigrants\", \"labor\", \"economic growth\"],\n            \"Source Titles\": [\"Spain, Like U.S., Grapples With Immigration\"]\n        }\n    },\n    {\n        \"Topic 33\": {\n            \"Summary\": \"Labor strikes and economic protests.\",\n            \"Keywords\": [\"South Korea\", \"truckers\", \"fuel costs\", \"strike\", \"demonstrations\"],\n            \"Source Titles\": [\"South Korean Truckers Strike to Protest Rising Fuel Costs\"]\n        }\n    },\n    {\n        \"Topic 34\": {\n            \"Summary\": \"Natural disasters and government responses.\",\n            \"Keywords\": [\"China\", \"earthquake\", \"Sichuan\", \"death toll\", \"government\"],\n            \"Source Titles\": [\"Chinese Quake Toll, 69,172, Is Just a Guess\"]\n        }\n    },\n    {\n        \"Topic 35\": {\n            \"Summary\": \"Military operations and civilian impacts in Iraq.\",\n            \"Keywords\": [\"Mosul\", \"Iraq\", \"bombs\", \"al-Qaeda\", \"Sunni Muslims\"],\n            \"Source Titles\": [\"8 Civilians Killed in 2 Disputed Attacks, Iraq Says\"]\n        }\n    },\n    {\n        \"Topic 36\": {\n            \"Summary\": \"International sanctions and diplomatic conflicts.\",\n            \"Keywords\": [\"Zimbabwe\", \"UN\", \"sanctions\", \"Russia\", \"China\"],\n            \"Source Titles\": [\"2 Vetoes Quash U.N. Sanctions on Zimbabwe\"]\n        }\n    },\n    {\n        \"Topic 37\": {\n            \"Summary\": \"Oil deals and political controversies.\",\n            \"Keywords\": [\"Kurds\", \"Iraq\", \"oil\", \"State Department\", \"Hunt Oil\"],\n            \"Source Titles\": [\"State Department Inspector to Investigate Texas Oil Company’s Deal in Kurdistan\"]\n        }\n    },\n    {\n        \"Topic 38\": {\n            \"Summary\": \"Terrorism and security concerns in China.\",\n            \"Keywords\": [\"China\", \"Uighur\", \"Olympics\", \"bombs\", \"terrorism\"],\n            \"Source Titles\": [\"China Doubts Bus Blasts Are Linked to Separatists\"]\n        }\n    },\n    {\n        \"Topic 39\": {\n            \"Summary\": \"Environmental policies and international events.\",\n            \"Keywords\": [\"China\", \"pollution\", \"Olympics\", \"Beijing\", \"factories\"],\n            \"Source Titles\": [\"China Announces More Pollution Controls\"]\n        }\n    },\n    {\n        \"Topic 40\": {\n            \"Summary\": \"Military alliances and geopolitical tensions.\",\n            \"Keywords\": [\"Poland\", \"missile defense\", \"Russia\", \"NATO\", \"Bush\"],\n            \"Source Titles\": [\"U.S. and Poland Set Missile Deal\"]\n        }\n    },\n    {\n        \"Topic 41\": {\n            \"Summary\": \"Space technology and international relations.\",\n            \"Keywords\": [\"Iran\", \"satellites\", \"rocket\", \"Muslim countries\", \"technology\"],\n            \"Source Titles\": [\"Iran Offers to Launch Satellites\"]\n        }\n    },\n    {\n        \"Topic 42\": {\n            \"Summary\": \"Territorial disputes and international recognition.\",\n            \"Keywords\": [\"Russia\", \"Georgia\", \"South Ossetia\", \"Abkhazia\", \"independence\"],\n            \"Source Titles\": [\"Enclave Hails Tight Embrace From Moscow\"]\n        }\n    },\n    {\n        \"Topic 43\": {\n            \"Summary\": \"Nuclear energy and international diplomacy.\",\n            \"Keywords\": [\"India\", \"nuclear power\", \"State Department\", \"Singh\", \"Manmohan\"],\n            \"Source Titles\": [\"U.S. Letter Incites Push to Oust India Leader\"]\n        }\n    },\n    {\n        \"Topic 44\": {\n            \"Summary\": \"Media coverage of insurgent groups.\",\n            \"Keywords\": [\"France\", \"Taliban\", \"magazine\", \"soldiers\", \"Afghanistan\"],\n            \"Source Titles\": [\"France: Magazine Showcases Taliban\"]\n        }\n    },\n    {\n        \"Topic 45\": {\n            \"Summary\": \"Natural disasters and regional impacts.\",\n            \"Keywords\": [\"hurricane\", \"Caribbean\", \"Ike\", \"Gustav\", \"Haiti\"],\n            \"Source Titles\": [\"Hurricane Ike Smashes West Through Caribbean\"]\n        }\n    },\n    {\n        \"Topic 46\": {\n            \"Summary\": \"Terrorism trials and legal outcomes.\",\n            \"Keywords\": [\"terror plot\", \"London\", \"airliners\", \"bombs\", \"verdicts\"],\n            \"Source Titles\": [\"No One Convicted of Terror Plot to Bomb Planes\"]\n        }\n    },\n    {\n        \"Topic 47\": {\n            \"Summary\": \"Public health policies and government actions.\",\n            \"Keywords\": [\"Russia\", \"smoking\", \"population\", \"birthrate\", \"tobacco\"],\n            \"Source Titles\": [\"Wary of Protests, Russia Puts Few Limits on Smoking\"]\n        }\n    },\n    {\n        \"Topic 48\": {\n            \"Summary\": \"International finance and geopolitical alliances.\",\n            \"Keywords\": [\"Georgia\", \"Russia\", \"Asian Development Bank\", \"loan\", \"China\"],\n            \"Source Titles\": [\"Loan to Georgia Illustrates Asian Dismay With Russia\"]\n        }\n    },\n    {\n        \"Topic 49\": {\n            \"Summary\": \"Tourism accidents and safety investigations.\",\n            \"Keywords\": [\"Paris\", \"tourist boat\", \"Seine\", \"accident\", \"deaths\"],\n            \"Source Titles\": [\"Two Die After Paris Tourist Boat Sinks\"]\n        }\n    },\n    {\n        \"Topic 50\": {\n            \"Summary\": \"Historical figures and public memory.\",\n            \"Keywords\": [\"Germany\", \"Hitler\", \"wax museum\", \"Tussauds\", \"protest\"],\n            \"Source Titles\": [\"Germany: Wax Hitler Back at Museum\"]\n        }\n    }\n]\n```\n\nThis analysis covers a broad range of topics from international relations, military conflicts, social changes, environmental policies, and more, each with relevant keywords and exact source titles from the input data.",
+  "all_responses": [
+    "Here is the thematic analysis of the provided text data, organized into 50 topics with summaries, keywords, and source titles:\n\n```json\n[\n    {\n        \"Topic 1\": {\n            \"Summary\": \"Innovations in affordable medical prosthetics for developing countries.\",\n            \"Keywords\": [\"India\", \"Jaipur foot\", \"prosthesis\", \"amputees\", \"Dr. P. K. Sethi\"],\n            \"Source Titles\": [\"P. K. Sethi, Inventor of the Low-Tech Limb, Is Dead at 80\"]\n        }\n    },\n    {\n        \"Topic 2\": {\n            \"Summary\": \"Religious and political tensions within Orthodox Christianity in Europe.\",\n            \"Keywords\": [\"Russian Orthodox Church\", \"Moscow\", \"France\", \"Putin\", \"Vladimir V\"],\n            \"Source Titles\": [\"A Cathedral Resists the Label ‘Property of Russia’\"]\n        }\n    },\n    {\n        \"Topic 3\": {\n            \"Summary\": \"Middle Eastern conflicts and U.S. foreign policy impacts.\",\n            \"Keywords\": [\"Palestinians\", \"Israel\", \"Bush\", \"George W\", \"West Bank\"],\n            \"Source Titles\": [\"Many Palestinians Offer a Bleak Opinion of Bush\"]\n        }\n    },\n    {\n        \"Topic 4\": {\n            \"Summary\": \"International military engagements and geopolitical strategies.\",\n            \"Keywords\": [\"Afghanistan\", \"Japan\", \"refueling mission\", \"navy\", \"Fukuda\"],\n            \"Source Titles\": [\"Japan Approves Bill on Afghan War\"]\n        }\n    },\n    {\n        \"Topic 5\": {\n            \"Summary\": \"Diplomatic relations and human rights issues in the Middle East.\",\n            \"Keywords\": [\"Egypt\", \"Mubarak\", \"dissent\", \"Bush\", \"United Arab Emirates\"],\n            \"Source Titles\": [\"Bush Lauds Egypt Leader, Avoiding Record on Dissent\"]\n        }\n    },\n    {\n        \"Topic 6\": {\n            \"Summary\": \"Religious conflicts and violence in Iraq.\",\n            \"Keywords\": [\"Iraq\", \"Shiite Muslims\", \"Karbala\", \"Mahdi Army\", \"Sadr\"],\n            \"Source Titles\": [\"Despite Deadly Clashes in Iraq, Shiite Pilgrims Spared\"]\n        }\n    },\n    {\n        \"Topic 7\": {\n            \"Summary\": \"Military contract failures and oversight in Iraq.\",\n            \"Keywords\": [\"Iraq\", \"defense contracts\", \"Army Corps of Engineers\", \"oversight\"],\n            \"Source Titles\": [\"An American Builder’s Failures in Iraq Are Found to Have Been More Widespread\"]\n        }\n    },\n    {\n        \"Topic 8\": {\n            \"Summary\": \"Historical diplomatic relations between China and the U.S.\",\n            \"Keywords\": [\"China\", \"Nixon\", \"Mao\", \"Zhang Hanzhi\", \"Cultural Revolution\"],\n            \"Source Titles\": [\"Zhang Hanzhi, Mao’s Tutor, Is Dead at 72\"]\n        }\n    },\n    {\n        \"Topic 9\": {\n            \"Summary\": \"Cross-border military actions and regional conflicts.\",\n            \"Keywords\": [\"Turkey\", \"Kurds\", \"Iraq\", \"bombing\", \"Kurdistan Workers Party\"],\n            \"Source Titles\": [\"Turkish Jets Bomb Northern Iraq\"]\n        }\n    },\n    {\n        \"Topic 10\": {\n            \"Summary\": \"High-profile art thefts and security breaches.\",\n            \"Keywords\": [\"art theft\", \"Zurich\", \"van Gogh\", \"Monet\", \"Degas\"],\n            \"Source Titles\": [\"At Zurich Museum, a Theft of 4 Masterworks\"]\n        }\n    },\n    {\n        \"Topic 11\": {\n            \"Summary\": \"Social changes and evolving traditions in India.\",\n            \"Keywords\": [\"India\", \"divorce\", \"marriage\", \"social mores\", \"women\"],\n            \"Source Titles\": [\"As Mores Evolve, India’s Divorced Seek Second Chance\"]\n        }\n    },\n    {\n        \"Topic 12\": {\n            \"Summary\": \"Political rhetoric and international relations involving Cuba.\",\n            \"Keywords\": [\"Cuba\", \"Castro\", \"Fidel\", \"U.S. relations\", \"retirement\"],\n            \"Source Titles\": [\"Castro, Nearly Retired, Keeps Busy With a Few Pokes at U.S.\"]\n        }\n    },\n    {\n        \"Topic 13\": {\n            \"Summary\": \"Global environmental agreements and U.S. policy.\",\n            \"Keywords\": [\"global warming\", \"treaties\", \"Bush administration\", \"Europe\"],\n            \"Source Titles\": [\"Binding Emissions Treaty Still a Possibility, U.S. Says\"]\n        }\n    },\n    {\n        \"Topic 14\": {\n            \"Summary\": \"Government transparency and historical records release.\",\n            \"Keywords\": [\"Great Britain\", \"Iraq\", \"Blair\", \"cabinet meetings\", \"legality\"],\n            \"Source Titles\": [\"British Government Ordered to Release Notes on Iraq\"]\n        }\n    },\n    {\n        \"Topic 15\": {\n            \"Summary\": \"Border conflicts and international diplomacy.\",\n            \"Keywords\": [\"Turkey\", \"Iraq\", \"Kurds\", \"Gates\", \"Robert M\"],\n            \"Source Titles\": [\"Gates Urges Limits on Turkish Raids\"]\n        }\n    },\n    {\n        \"Topic 16\": {\n            \"Summary\": \"Legal disputes and media freedom in Europe.\",\n            \"Keywords\": [\"libel\", \"Northern Ireland\", \"newspaper\", \"restaurant\", \"court\"],\n            \"Source Titles\": [\"Britain: Restaurant Libel Quashed\"]\n        }\n    },\n    {\n        \"Topic 17\": {\n            \"Summary\": \"U.S. foreign policy and military engagements.\",\n            \"Keywords\": [\"Bush\", \"Iraq\", \"Afghanistan\", \"freedom\", \"Christian broadcasters\"],\n            \"Source Titles\": [\"Bush Defends Wars, Citing Freedom\"]\n        }\n    },\n    {\n        \"Topic 18\": {\n            \"Summary\": \"Health and political legacies of former leaders.\",\n            \"Keywords\": [\"Philippines\", \"Aquino\", \"Corazon\", \"cancer\", \"president\"],\n            \"Source Titles\": [\"Former Philippine Leader Diagnosed With Cancer\"]\n        }\n    },\n    {\n        \"Topic 19\": {\n            \"Summary\": \"Drug trafficking and law enforcement in Mexico.\",\n            \"Keywords\": [\"Mexico\", \"drug cartels\", \"Zetas\", \"arrests\", \"Nuevo Laredo\"],\n            \"Source Titles\": [\"Mexico: Federal Agents Seize Millions and Arrest 6\"]\n        }\n    },\n    {\n        \"Topic 20\": {\n            \"Summary\": \"Historical mysteries and wartime events.\",\n            \"Keywords\": [\"World War II\", \"Saint-Exupéry\", \"Little Prince\", \"pilot\", \"Mediterranean\"],\n            \"Source Titles\": [\"Clues to the Mystery of a Writer Pilot Who Disappeared\"]\n        }\n    },\n    {\n        \"Topic 21\": {\n            \"Summary\": \"Terrorist attacks and military responses in Afghanistan.\",\n            \"Keywords\": [\"Afghanistan\", \"suicide bomber\", \"Taliban\", \"mosque\", \"police\"],\n            \"Source Titles\": [\"Suicide Bomber Kills 23 in Remote Afghan Province\"]\n        }\n    },\n    {\n        \"Topic 22\": {\n            \"Summary\": \"Political instability and refugee crises in Africa.\",\n            \"Keywords\": [\"Zimbabwe\", \"South Africa\", \"Mugabe\", \"refugees\", \"violence\"],\n            \"Source Titles\": [\"Human Wave Flees Violence in Zimbabwe\"]\n        }\n    },\n    {\n        \"Topic 23\": {\n            \"Summary\": \"Prison security failures and terrorism.\",\n            \"Keywords\": [\"Singapore\", \"prison escape\", \"terror suspect\", \"government commission\"],\n            \"Source Titles\": [\"Terror Suspect Fled Prison Through Window, Singapore Says\"]\n        }\n    },\n    {\n        \"Topic 24\": {\n            \"Summary\": \"Military conflicts and insurgent groups in Iraq.\",\n            \"Keywords\": [\"Baghdad\", \"Iran\", \"Shiite groups\", \"U.S. military\", \"Sadr\"],\n            \"Source Titles\": [\"Groups With Iran’s Backing Blamed for Baghdad Attacks\"]\n        }\n    },\n    {\n        \"Topic 25\": {\n            \"Summary\": \"International events and human rights controversies.\",\n            \"Keywords\": [\"Olympics\", \"Hong Kong\", \"Darfur\", \"torch relay\", \"protests\"],\n            \"Source Titles\": [\"Hong Kong Embraces Olympic Torch\"]\n        }\n    },\n    {\n        \"Topic 26\": {\n            \"Summary\": \"Culinary arts and cultural heritage.\",\n            \"Keywords\": [\"France\", \"cuisine\", \"restaurant\", \"Haeberlin\", \"Alsace\"],\n            \"Source Titles\": [\"Paul Haeberlin, 3-Star Chef, Dies at 84\"]\n        }\n    },\n    {\n        \"Topic 27\": {\n            \"Summary\": \"Military justice and international incidents.\",\n            \"Keywords\": [\"marine\", \"court martial\", \"Japan\", \"sex abuse\", \"Fukuda\"],\n            \"Source Titles\": [\"Marine Given 4 Years in Sex Case\"]\n        }\n    },\n    {\n        \"Topic 28\": {\n            \"Summary\": \"Guerrilla movements and peace processes.\",\n            \"Keywords\": [\"Colombia\", \"FARC\", \"rebel commander\", \"surrender\", \"civil war\"],\n            \"Source Titles\": [\"Colombia: Rebel Commander Surrenders\"]\n        }\n    },\n    {\n        \"Topic 29\": {\n            \"Summary\": \"Demographic challenges and rural development.\",\n            \"Keywords\": [\"Japan\", \"population decline\", \"Hokkaido\", \"land use\", \"real estate\"],\n            \"Source Titles\": [\"Despite Land for the Taking, No Cry of Northward Ho\"]\n        }\n    },\n    {\n        \"Topic 30\": {\n            \"Summary\": \"Insurgency and civilian casualties in Iraq.\",\n            \"Keywords\": [\"Baghdad\", \"insurgents\", \"civilian deaths\", \"military base\", \"bombs\"],\n            \"Source Titles\": [\"Explosions and Shootings Disrupt Relative Calm in Iraq\"]\n        }\n    },\n    {\n        \"Topic 31\": {\n            \"Summary\": \"Human rights violations and international law.\",\n            \"Keywords\": [\"Syria\", \"torture\", \"deportation\", \"Justice Department\", \"rendition\"],\n            \"Source Titles\": [\"Justice Dept. Investigating Deportation to Syria\"]\n        }\n    },\n    {\n        \"Topic 32\": {\n            \"Summary\": \"Immigration policies and economic impacts in Europe.\",\n            \"Keywords\": [\"Spain\", \"immigration\", \"illegal immigrants\", \"labor\", \"economic growth\"],\n            \"Source Titles\": [\"Spain, Like U.S., Grapples With Immigration\"]\n        }\n    },\n    {\n        \"Topic 33\": {\n            \"Summary\": \"Labor strikes and economic protests.\",\n            \"Keywords\": [\"South Korea\", \"truckers\", \"fuel costs\", \"strike\", \"demonstrations\"],\n            \"Source Titles\": [\"South Korean Truckers Strike to Protest Rising Fuel Costs\"]\n        }\n    },\n    {\n        \"Topic 34\": {\n            \"Summary\": \"Natural disasters and government responses.\",\n            \"Keywords\": [\"China\", \"earthquake\", \"Sichuan\", \"death toll\", \"government\"],\n            \"Source Titles\": [\"Chinese Quake Toll, 69,172, Is Just a Guess\"]\n        }\n    },\n    {\n        \"Topic 35\": {\n            \"Summary\": \"Military operations and civilian impacts in Iraq.\",\n            \"Keywords\": [\"Mosul\", \"Iraq\", \"bombs\", \"al-Qaeda\", \"Sunni Muslims\"],\n            \"Source Titles\": [\"8 Civilians Killed in 2 Disputed Attacks, Iraq Says\"]\n        }\n    },\n    {\n        \"Topic 36\": {\n            \"Summary\": \"International sanctions and diplomatic conflicts.\",\n            \"Keywords\": [\"Zimbabwe\", \"UN\", \"sanctions\", \"Russia\", \"China\"],\n            \"Source Titles\": [\"2 Vetoes Quash U.N. Sanctions on Zimbabwe\"]\n        }\n    },\n    {\n        \"Topic 37\": {\n            \"Summary\": \"Oil deals and political controversies.\",\n            \"Keywords\": [\"Kurds\", \"Iraq\", \"oil\", \"State Department\", \"Hunt Oil\"],\n            \"Source Titles\": [\"State Department Inspector to Investigate Texas Oil Company’s Deal in Kurdistan\"]\n        }\n    },\n    {\n        \"Topic 38\": {\n            \"Summary\": \"Terrorism and security concerns in China.\",\n            \"Keywords\": [\"China\", \"Uighur\", \"Olympics\", \"bombs\", \"terrorism\"],\n            \"Source Titles\": [\"China Doubts Bus Blasts Are Linked to Separatists\"]\n        }\n    },\n    {\n        \"Topic 39\": {\n            \"Summary\": \"Environmental policies and international events.\",\n            \"Keywords\": [\"China\", \"pollution\", \"Olympics\", \"Beijing\", \"factories\"],\n            \"Source Titles\": [\"China Announces More Pollution Controls\"]\n        }\n    },\n    {\n        \"Topic 40\": {\n            \"Summary\": \"Military alliances and geopolitical tensions.\",\n            \"Keywords\": [\"Poland\", \"missile defense\", \"Russia\", \"NATO\", \"Bush\"],\n            \"Source Titles\": [\"U.S. and Poland Set Missile Deal\"]\n        }\n    },\n    {\n        \"Topic 41\": {\n            \"Summary\": \"Space technology and international relations.\",\n            \"Keywords\": [\"Iran\", \"satellites\", \"rocket\", \"Muslim countries\", \"technology\"],\n            \"Source Titles\": [\"Iran Offers to Launch Satellites\"]\n        }\n    },\n    {\n        \"Topic 42\": {\n            \"Summary\": \"Territorial disputes and international recognition.\",\n            \"Keywords\": [\"Russia\", \"Georgia\", \"South Ossetia\", \"Abkhazia\", \"independence\"],\n            \"Source Titles\": [\"Enclave Hails Tight Embrace From Moscow\"]\n        }\n    },\n    {\n        \"Topic 43\": {\n            \"Summary\": \"Nuclear energy and international diplomacy.\",\n            \"Keywords\": [\"India\", \"nuclear power\", \"State Department\", \"Singh\", \"Manmohan\"],\n            \"Source Titles\": [\"U.S. Letter Incites Push to Oust India Leader\"]\n        }\n    },\n    {\n        \"Topic 44\": {\n            \"Summary\": \"Media coverage of insurgent groups.\",\n            \"Keywords\": [\"France\", \"Taliban\", \"magazine\", \"soldiers\", \"Afghanistan\"],\n            \"Source Titles\": [\"France: Magazine Showcases Taliban\"]\n        }\n    },\n    {\n        \"Topic 45\": {\n            \"Summary\": \"Natural disasters and regional impacts.\",\n            \"Keywords\": [\"hurricane\", \"Caribbean\", \"Ike\", \"Gustav\", \"Haiti\"],\n            \"Source Titles\": [\"Hurricane Ike Smashes West Through Caribbean\"]\n        }\n    },\n    {\n        \"Topic 46\": {\n            \"Summary\": \"Terrorism trials and legal outcomes.\",\n            \"Keywords\": [\"terror plot\", \"London\", \"airliners\", \"bombs\", \"verdicts\"],\n            \"Source Titles\": [\"No One Convicted of Terror Plot to Bomb Planes\"]\n        }\n    },\n    {\n        \"Topic 47\": {\n            \"Summary\": \"Public health policies and government actions.\",\n            \"Keywords\": [\"Russia\", \"smoking\", \"population\", \"birthrate\", \"tobacco\"],\n            \"Source Titles\": [\"Wary of Protests, Russia Puts Few Limits on Smoking\"]\n        }\n    },\n    {\n        \"Topic 48\": {\n            \"Summary\": \"International finance and geopolitical alliances.\",\n            \"Keywords\": [\"Georgia\", \"Russia\", \"Asian Development Bank\", \"loan\", \"China\"],\n            \"Source Titles\": [\"Loan to Georgia Illustrates Asian Dismay With Russia\"]\n        }\n    },\n    {\n        \"Topic 49\": {\n            \"Summary\": \"Tourism accidents and safety investigations.\",\n            \"Keywords\": [\"Paris\", \"tourist boat\", \"Seine\", \"accident\", \"deaths\"],\n            \"Source Titles\": [\"Two Die After Paris Tourist Boat Sinks\"]\n        }\n    },\n    {\n        \"Topic 50\": {\n            \"Summary\": \"Historical figures and public memory.\",\n            \"Keywords\": [\"Germany\", \"Hitler\", \"wax museum\", \"Tussauds\", \"protest\"],\n            \"Source Titles\": [\"Germany: Wax Hitler Back at Museum\"]\n        }\n    }\n]\n```\n\nThis analysis covers a broad range of topics from international relations, military conflicts, social changes, environmental policies, and more, each with relevant keywords and exact source titles from the input data."
+  ],
+  "retry_info": {
+    "total_retries": 1,
+    "format_parse_failed": false
+  },
+  "cost_analysis": {
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "input_tokens": 124536,
+    "output_tokens": 4209,
+    "estimated_cost": 0.0,
+    "actual_cost": 0.0,
+    "cost_info": "总计: $0.000000"
+  }
+}

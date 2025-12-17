@@ -1,0 +1,3704 @@
+{
+  "file_path": "C:/Users/1/Desktop/TopMost/LCLLMTM/data4LCLLM/NYT_sampled.csv",
+  "total_topics": 10,
+  "topics": [
+    {
+      "topic_num": 1,
+      "summary": "Climate change and environmental issues including global warming, carbon emissions, and international climate agreements and policies.",
+      "keywords": [
+        "Global Warming",
+        "Climate Change",
+        "Carbon Dioxide",
+        "Greenhouse Gas Emissions",
+        "Environment",
+        "Paris Climate Agreement",
+        "Copenhagen",
+        "Renewable Energy"
+      ],
+      "keyword_count": 8,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Fixing Climate Change May Add No Costs, Report Says",
+          "id": "47143",
+          "match_score": 3,
+          "matched_keywords": [
+            "Global Warming",
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Obama Presses Chinese on Global Warming",
+          "id": "47364",
+          "match_score": 3,
+          "matched_keywords": [
+            "Global Warming",
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Scientists and Religious Leaders Discuss Climate Change at Vatican",
+          "id": "53012",
+          "match_score": 3,
+          "matched_keywords": [
+            "Global Warming",
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "As Time Runs Short for Global Climate Treaty, Nations May Settle for Interim Steps",
+          "id": "10714",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change",
+            "Copenhagen"
+          ]
+        },
+        {
+          "title": "Carbon Pricing Becomes a Cause for the World Bank and I.M.F.",
+          "id": "64835",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change",
+            "Carbon Dioxide"
+          ]
+        },
+        {
+          "title": "Climate Change Is Shrinking Where Bumblebees Range, Research Finds",
+          "id": "55170",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "India: âSuperbugâ?Gene Found in Environment",
+          "id": "20550",
+          "match_score": 2,
+          "matched_keywords": [
+            "Environment"
+          ]
+        },
+        {
+          "title": "Quick Analysis Finds Effect of Climate Change in French Floods",
+          "id": "66050",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "The Times Interviews Obama on Climate Change",
+          "id": "67784",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "âDisgusting to Say, but Itâs the Truthâ? German Winemakers See Boon in Climate Change",
+          "id": "82445",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "North Korea Aside, Guam Faces Another Threat: Climate Change",
+          "id": "73984",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Climate Change and the Incoming Trump Government",
+          "id": "69833",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Climate Change and the Case of the Shrinking Red Knots",
+          "id": "65382",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Risk of Extreme Weather From Climate Change to Rise Over Next Century, Report Says",
+          "id": "54575",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Ruling Says Netherlands Must Reduce Greenhouse Gas Emissions",
+          "id": "54662",
+          "match_score": 2,
+          "matched_keywords": [
+            "Greenhouse Gas Emissions"
+          ]
+        },
+        {
+          "title": "Canadaâs New Leadership Reverses Course on Climate Change",
+          "id": "60144",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "China Wants to Be a Climate Change Watchdog, but Can It Lead by Example?",
+          "id": "70173",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Are the Kids Alright in the Era of Climate Change?",
+          "id": "87090",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Drinking While Scooting? In Copenhagen, Prepare to Be Arrested",
+          "id": "85668",
+          "match_score": 2,
+          "matched_keywords": [
+            "Copenhagen"
+          ]
+        },
+        {
+          "title": "200 Reindeer Starved to Death. Experts Call It a Sign of Climate Change.",
+          "id": "86085",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Thousands March in Copenhagen, Calling for Action",
+          "id": "11637",
+          "match_score": 2,
+          "matched_keywords": [
+            "Copenhagen"
+          ]
+        },
+        {
+          "title": "In Weather Chaos, a Case for Global Warming",
+          "id": "16070",
+          "match_score": 2,
+          "matched_keywords": [
+            "Global Warming"
+          ]
+        },
+        {
+          "title": "Climate Change Report Outlines Perils for U.S. Military",
+          "id": "31961",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "As Trump Steps Back, Jerry Brown Talks Climate Change in China",
+          "id": "72836",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Japanâs Enchanting Ice Monsters, Claimed by Climate Change",
+          "id": "83415",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Chinaâs Carbon Dioxide Emissions May Have Been Overstated by More Than 10%",
+          "id": "56558",
+          "match_score": 2,
+          "matched_keywords": [
+            "Carbon Dioxide"
+          ]
+        },
+        {
+          "title": "World Bank to Help Cities Control Climate Change",
+          "id": "21760",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Australian Rodent Is First Mammal Made Extinct by Human-Driven Climate Change, Scientists Say",
+          "id": "66103",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Ending the Abuse of Laws, Workers and the Environment at Sea",
+          "id": "55775",
+          "match_score": 2,
+          "matched_keywords": [
+            "Environment"
+          ]
+        },
+        {
+          "title": "Global Warming âHiatusâ?Challenged by NOAA Research",
+          "id": "54012",
+          "match_score": 2,
+          "matched_keywords": [
+            "Global Warming"
+          ]
+        },
+        {
+          "title": "Chinaâs Climate Change Plan Raises Questions",
+          "id": "48733",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Floods. Wildfires. Yet Few Candidates Are Running on Climate Change.",
+          "id": "80532",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "German High Court Hands Youth a Victory in Climate Change Fight",
+          "id": "100026",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        },
+        {
+          "title": "Two-Thirds of Americans Want U.S. to Join Climate Change Pact",
+          "id": "60207",
+          "match_score": 2,
+          "matched_keywords": [
+            "Climate Change"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 34
+      }
+    },
+    {
+      "topic_num": 2,
+      "summary": "International conflicts and wars including Syria, Iraq, Afghanistan, and other military interventions and their humanitarian consequences.",
+      "keywords": [
+        "Syria",
+        "Iraq",
+        "Afghanistan War",
+        "Defense and Military Forces",
+        "Civilian Casualties",
+        "Taliban",
+        "Islamic State",
+        "War Crimes"
+      ],
+      "keyword_count": 8,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Massacre Claim Shakes Iraq",
+          "id": "44681",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "For Iraq, Debacle in Tikrit as Forces Walk Into Trap Set by Militants",
+          "id": "45557",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Qaeda-Linked Group Is Seen Complicating the Drive for Peace in Syria",
+          "id": "38965",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Syria: New Ambassador to Iraq",
+          "id": "4051",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "14 Million Children Suffering as Result of War in Syria and Iraq, Unicef Says",
+          "id": "51784",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "U.N. Will Weigh Asking Court to Investigate War Crimes in Syria",
+          "id": "43981",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "War Crimes"
+          ]
+        },
+        {
+          "title": "Polio Spreads From Syria to Iraq, Causing Worries",
+          "id": "42767",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Kerry, in Qatar, Warns Taliban While Also Building Support on Syria",
+          "id": "36551",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Taliban"
+          ]
+        },
+        {
+          "title": "Syria and Iraq Called Urgent by New U.N. Rights Chief",
+          "id": "46920",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "After Losses in Syria and Iraq, ISIS Moves the Goal Posts",
+          "id": "68708",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Belgiumâs Anti-ISIS Airstrikes Expand From Iraq Into Syria",
+          "id": "65411",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "U.N. Leader Deplores Syria Warâs Spread to Iraq",
+          "id": "44857",
+          "match_score": 4,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Iraqâs Sunni Militants Take to Social Media to Advance Their Cause and Intimidate",
+          "id": "45087",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Questions Rebels Use to Tell Sunni From Shiite",
+          "id": "44961",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Turkey Makes Bid to Expand Military Role",
+          "id": "47569",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Obamaâs Full Speech About ISIS",
+          "id": "47013",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Kerry Requests Use of Military Force",
+          "id": "49483",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Borne by Facebook, Conspiracy Theory That U.S. Created ISIS Spreads Across Middle East",
+          "id": "46602",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Iraqi Families Return to Fragile Stability in Tikrit After Liberation From ISIS",
+          "id": "54571",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "A Canadianâs Pitch for ISIS",
+          "id": "45523",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Strikes on Raqqa in Syria Lead to More Questions Than Results",
+          "id": "59836",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Iran Fires a Ballistic Missile at ISIS in Syria, Avenging an Earlier Attack",
+          "id": "80514",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Joint Taliban-ISIS Attack Kills Dozens, Afghan Officials Say",
+          "id": "73896",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "ISIS Redoubt in Northern Syria Is Said to Be Nearly Encircled",
+          "id": "70652",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Turkish Military Evacuates Soldiers Guarding Tomb in Syria",
+          "id": "51327",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Santa Arrested in Iraq? Social Media Says Yes, Police Say No",
+          "id": "82051",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "Turkey Confirms Strikes Against Kurdish Militias in Syria",
+          "id": "59037",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "John Kerry Tempers Expectations for Syria Talks",
+          "id": "59658",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Iraq: 14 Are Killed in Hotel Bombings",
+          "id": "53848",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "U.S. Airlifts Hundreds of Militia Fighters in Attack to Cut Off Raqqa, Syria",
+          "id": "71453",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Wary Tribal Alliances, Born of Necessity, Offer Hope in Iraq",
+          "id": "47731",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "ISIS Says It Killed Steven Sotloff After U.S. Strikes in Northern Iraq",
+          "id": "46769",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "American Fighter Jets Carry Out Series of Airstrikes Against Qaeda Cell in Syria",
+          "id": "48585",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Amid ISIS Battles, American Surrenders in Iraq",
+          "id": "63612",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Afghan ISIS Branch Makes Inroads in Battle Against Taliban",
+          "id": "58473",
+          "match_score": 3,
+          "matched_keywords": [
+            "Taliban",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "For Afghans Scarred by War, âPeace Canât Bring My Love Backâ?,Foreign,We reached some of the victims of the conflict whose stories we have reported over the years to hear their views on a stalled peace deal.,2019-09-16 09:00:17+00:00,['Afghanistan War (2001- )'",
+          "id": "86897",
+          "match_score": 3,
+          "matched_keywords": [
+            "Afghanistan War",
+            "Taliban"
+          ]
+        },
+        {
+          "title": "Islamic Militants Surprise Kurds in Iraq, Killing a Commander in a Day of Attacks",
+          "id": "50794",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "ISIS Carries Out First âSeriousâ?Attack in Northern Iraq in Months, U.S. Says",
+          "id": "60826",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iraq",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Canadian Killed in Syria Lives On as Pitchman for Jihadis",
+          "id": "45524",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Iraq"
+          ]
+        },
+        {
+          "title": "ISIS Caliphate Crumbles as Last Village in Syria Falls",
+          "id": "83612",
+          "match_score": 3,
+          "matched_keywords": [
+            "Syria",
+            "Islamic State"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 40
+      }
+    },
+    {
+      "topic_num": 3,
+      "summary": "Terrorism attacks, counterterrorism efforts, and security threats across various countries and regions.",
+      "keywords": [
+        "Terrorism",
+        "Islamic State",
+        "Al Qaeda",
+        "Bombs and Explosives",
+        "Security",
+        "Counterterrorism",
+        "Attacks",
+        "Extremism"
+      ],
+      "keyword_count": 8,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Could the Christchurch Attacks Have Been Prevented?",
+          "id": "85190",
+          "match_score": 5,
+          "matched_keywords": [
+            "Terrorism",
+            "Security",
+            "Attacks",
+            "Extremism"
+          ]
+        },
+        {
+          "title": "Germany, Unscathed, Is in Eye of Terrorism Scare",
+          "id": "17071",
+          "match_score": 4,
+          "matched_keywords": [
+            "Terrorism",
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "After Attacks in Uganda, Worry Grows Over Group",
+          "id": "15534",
+          "match_score": 4,
+          "matched_keywords": [
+            "Terrorism",
+            "Al Qaeda",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "Attacks Threaten Fragile Security Gains in Cradle of Iraq Insurgency",
+          "id": "11176",
+          "match_score": 4,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "Pakistan Charges 7 Terrorism Suspects a Year After Attacks That Shocked Mumbai",
+          "id": "11322",
+          "match_score": 4,
+          "matched_keywords": [
+            "Terrorism",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "Unrest in Yemen Seen as Opening to Qaeda Branch",
+          "id": "20474",
+          "match_score": 3,
+          "matched_keywords": [
+            "Al Qaeda",
+            "Counterterrorism",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "ISIS Fears Prompt Britain to Raise Terrorism Threat Level",
+          "id": "46680",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Security"
+          ]
+        },
+        {
+          "title": "Trump Praises Erdogan as Ally in Terrorism Fight, Brushing Aside Tensions",
+          "id": "72461",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Afghan Leader Forces Out Top 2 Security Officials",
+          "id": "14897",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "The Paris Attacks, 2 Years Later: Quiet Remembrance and Lasting Impact",
+          "id": "75418",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "China Says Wanted Militants Use Nearby Countries to Stage Attacks",
+          "id": "27784",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "A Wealthy Saudi, Mired in Limbo Over an Accusation of Terrorism",
+          "id": "5448",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Al Qaeda"
+          ]
+        },
+        {
+          "title": "Saudis Give $100 Million to U.N. Fight on Terrorism",
+          "id": "46273",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Extremism"
+          ]
+        },
+        {
+          "title": "Urumqi Authorities Tighten Security on Buses",
+          "id": "45796",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "U.S. Issues Terrorism Alert for Travel to Europe",
+          "id": "16896",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Counterterrorism"
+          ]
+        },
+        {
+          "title": "Cabinet Minister Resigns in Wake of India Attacks",
+          "id": "5223",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "Bomb Attacks Around Iraq Target Shiites, Killing Dozens",
+          "id": "29018",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "France Vows Forceful Measures Against Terrorism",
+          "id": "50525",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Security"
+          ]
+        },
+        {
+          "title": "Nigerian Group Escalates Violence With Church Attacks",
+          "id": "25782",
+          "match_score": 3,
+          "matched_keywords": [
+            "Al Qaeda",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "Czech Man Is Charged With Attempted Terrorism",
+          "id": "67199",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Islamic State"
+          ]
+        },
+        {
+          "title": "Islamic Militants Surprise Kurds in Iraq, Killing a Commander in a Day of Attacks",
+          "id": "50794",
+          "match_score": 3,
+          "matched_keywords": [
+            "Islamic State",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "ISIS Threatens Al Qaeda as Flagship Movement of Extremists",
+          "id": "45138",
+          "match_score": 3,
+          "matched_keywords": [
+            "Islamic State",
+            "Al Qaeda"
+          ]
+        },
+        {
+          "title": "U.K. Panel Finds âLitany of Errorsâ?in Response to Terrorist Attacks",
+          "id": "81525",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "Dozens Killed in Attacks Targeting Iraqi Shiites",
+          "id": "36417",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "When it Comes to Terrorism Threat, Republicans and Democrats Go Separate Ways",
+          "id": "60765",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "At Least 12 Killed in Pair of Terrorist Attacks in Iran",
+          "id": "72851",
+          "match_score": 3,
+          "matched_keywords": [
+            "Islamic State",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "At the Heart of Indonesia Terror Attacks, a Well-Liked Family",
+          "id": "78343",
+          "match_score": 3,
+          "matched_keywords": [
+            "Islamic State",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "In Iraq, Early Vote Is Marred by Attacks",
+          "id": "13126",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "As ISIS Posts in Portuguese, U.S. and Brazil Bolster Olympics Security",
+          "id": "67178",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Security"
+          ]
+        },
+        {
+          "title": "Jihadist Return Is Said to Drive Attacks in Egypt",
+          "id": "41097",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "TimesCast | Widespread Attacks in Iraq",
+          "id": "23170",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "Debate Brings the Fear of Terrorism and Immigration to Center Stage",
+          "id": "60799",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Security"
+          ]
+        },
+        {
+          "title": "Iraq: Gunmen Kill at Least 11 in Separate Attacks",
+          "id": "27306",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "EgyptAir Was Aware of Threats to Security, Including One Scribbled on Plane",
+          "id": "65596",
+          "match_score": 3,
+          "matched_keywords": [
+            "Terrorism",
+            "Security"
+          ]
+        },
+        {
+          "title": "Attacks on Health Workers in War Zones Continue, Despite U.N. Resolution",
+          "id": "72638",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "Bomber Attacks G.I.âs Meeting With Baquba Officials",
+          "id": "7589",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "U.N. Urges Arab World to Denounce Islamic State",
+          "id": "48906",
+          "match_score": 3,
+          "matched_keywords": [
+            "Islamic State",
+            "Security"
+          ]
+        },
+        {
+          "title": "ISIS Attacks Syrian Border Town",
+          "id": "54669",
+          "match_score": 3,
+          "matched_keywords": [
+            "Islamic State",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "Baghdad Hit by Multiple Attacks",
+          "id": "11555",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        },
+        {
+          "title": "On High Alert Since Paris Attacks, French Gear Up for Climate Talks",
+          "id": "60138",
+          "match_score": 3,
+          "matched_keywords": [
+            "Security",
+            "Attacks"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 40
+      }
+    },
+    {
+      "topic_num": 4,
+      "summary": "Elections, political campaigns, and democratic processes in various countries including the United States and international elections.",
+      "keywords": [
+        "Elections",
+        "Presidential Election",
+        "Politics and Government",
+        "Voting",
+        "Campaigns",
+        "Democracy",
+        "Political Parties",
+        "Primaries"
+      ],
+      "keyword_count": 8,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Hong Kong Voting Light",
+          "id": "14504",
+          "match_score": 4,
+          "matched_keywords": [
+            "Elections",
+            "Voting",
+            "Democracy"
+          ]
+        },
+        {
+          "title": "India Elections 2019: Farmers Are Hurting and Millions Are Voting",
+          "id": "84118",
+          "match_score": 4,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Hong Kong, Its Elections Upended, Reconsiders Its Dream of Democracy",
+          "id": "99333",
+          "match_score": 4,
+          "matched_keywords": [
+            "Elections",
+            "Democracy"
+          ]
+        },
+        {
+          "title": "In India, Voting Begins in Elections Unmatched in Size and Scope",
+          "id": "83947",
+          "match_score": 4,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Rebel-Backed Elections to Cement Status Quo in Ukraine",
+          "id": "48463",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "As Elections Near, Protesters in Jordan Increasingly Turn Anger Toward the King",
+          "id": "33407",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Elections in Egypt by the Fall, Leaders Say",
+          "id": "20365",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Fatah Postpones Elections, and Extends Conference",
+          "id": "9463",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "The Lessons of the Elections of 1918",
+          "id": "90501",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Democracy"
+          ]
+        },
+        {
+          "title": "Russian Local Elections Draw Charges of Fraud",
+          "id": "57410",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Democracy"
+          ]
+        },
+        {
+          "title": "5 Takeaways From Tuesdayâs Primary Elections",
+          "id": "78640",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Primaries"
+          ]
+        },
+        {
+          "title": "In a Rowdy Democracy, a Dictatorâs Daughter With an Unsoiled Aura",
+          "id": "28036",
+          "match_score": 3,
+          "matched_keywords": [
+            "Presidential Election",
+            "Democracy"
+          ]
+        },
+        {
+          "title": "Thai Aristocrat Joins Political Fray, Backing Elections",
+          "id": "40930",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Democracy"
+          ]
+        },
+        {
+          "title": "A Guide to the Drama and Dynamics Behind Indiaâs Historic Elections",
+          "id": "84678",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "From Taiwan, Broad Support for Democracy in Hong Kong",
+          "id": "46787",
+          "match_score": 3,
+          "matched_keywords": [
+            "Democracy",
+            "Political Parties"
+          ]
+        },
+        {
+          "title": "A Review of Design Flaws and Solutions in Recent National Elections (Brennan Center for Justice)",
+          "id": "29897",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Presidential Election"
+          ]
+        },
+        {
+          "title": "Erdogan Calls Early Turkish Elections in Bid to Solidify Power",
+          "id": "77839",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Voting Irregularities in Kenya Election Are Confirmed, Adding Fuel to Dispute",
+          "id": "34872",
+          "match_score": 3,
+          "matched_keywords": [
+            "Presidential Election",
+            "Voting"
+          ]
+        },
+        {
+          "title": "4 States Are Voting on Tuesday. Hereâs What to Watch.",
+          "id": "79742",
+          "match_score": 3,
+          "matched_keywords": [
+            "Voting",
+            "Primaries"
+          ]
+        },
+        {
+          "title": "Gorbachev, Rebuking Putin, Criticizes Russian Elections",
+          "id": "422",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Presidential Election"
+          ]
+        },
+        {
+          "title": "Palestinian Authority Delays Elections",
+          "id": "21418",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Myanmarâs People Joyful in Voting, Even With Final Results Days Away",
+          "id": "59481",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Iraqi Measure on Provincial Voting Is Vetoed",
+          "id": "3190",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Broadcast of an Animated Film Roils Tunisia Before Elections",
+          "id": "24430",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Political Parties"
+          ]
+        },
+        {
+          "title": "TimesCast | French Elections",
+          "id": "28076",
+          "match_score": 3,
+          "matched_keywords": [
+            "Elections",
+            "Presidential Election"
+          ]
+        },
+        {
+          "title": "Europeâs Right and Left on March to Populism",
+          "id": "44058",
+          "match_score": 2,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Bosnians Doubt Vote, and Future, Too",
+          "id": "16931",
+          "match_score": 2,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "In Iraq, Early Vote Is Marred by Attacks",
+          "id": "13126",
+          "match_score": 2,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Peopleâs Daily Sees No Room for Compromise in Hong Kong",
+          "id": "47645",
+          "match_score": 2,
+          "matched_keywords": [
+            "Elections",
+            "Democracy"
+          ]
+        },
+        {
+          "title": "French Left Takes Control of the Senate",
+          "id": "23974",
+          "match_score": 2,
+          "matched_keywords": [
+            "Elections",
+            "Presidential Election"
+          ]
+        },
+        {
+          "title": "Louisiana Postpones April Primary as 4 More States Prepare to Vote on Tuesday",
+          "id": "90317",
+          "match_score": 2,
+          "matched_keywords": [
+            "Elections",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Kenyans Flood Polls for Presidential Vote",
+          "id": "34293",
+          "match_score": 2,
+          "matched_keywords": [
+            "Presidential Election",
+            "Voting"
+          ]
+        },
+        {
+          "title": "Cost of Living Takes Center Stage in Israeli Elections",
+          "id": "49471",
+          "match_score": 2,
+          "matched_keywords": [
+            "Elections"
+          ]
+        },
+        {
+          "title": "As the Polls Close, Hereâs What We Know About the Voting in Georgia",
+          "id": "96038",
+          "match_score": 2,
+          "matched_keywords": [
+            "Voting"
+          ]
+        },
+        {
+          "title": "8 More Pro-Democracy Lawmakers in Hong Kong May Lose Seats",
+          "id": "69129",
+          "match_score": 2,
+          "matched_keywords": [
+            "Democracy"
+          ]
+        },
+        {
+          "title": "South Carolina Presidential Election Results",
+          "id": "94685",
+          "match_score": 2,
+          "matched_keywords": [
+            "Presidential Election"
+          ]
+        },
+        {
+          "title": "Australiaâs Premier Faces Bleak Predictions on Eve of Elections",
+          "id": "37999",
+          "match_score": 2,
+          "matched_keywords": [
+            "Elections"
+          ]
+        },
+        {
+          "title": "Missouri Presidential Election Results",
+          "id": "96035",
+          "match_score": 2,
+          "matched_keywords": [
+            "Presidential Election"
+          ]
+        },
+        {
+          "title": "Ethiopian Region Holds Local Elections in Defiance of Prime Minister",
+          "id": "93462",
+          "match_score": 2,
+          "matched_keywords": [
+            "Elections"
+          ]
+        },
+        {
+          "title": "Huge Crowds Turn Out for Pro-Democracy March in Hong Kong, Defying Beijing",
+          "id": "45143",
+          "match_score": 2,
+          "matched_keywords": [
+            "Democracy"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 40
+      }
+    },
+    {
+      "topic_num": 5,
+      "summary": "Human rights violations, political prisoners, and authoritarian crackdowns on civil liberties and freedom of expression.",
+      "keywords": [
+        "Human Rights",
+        "Political Prisoners",
+        "Freedom of Speech",
+        "Censorship",
+        "Demonstrations",
+        "Protests",
+        "Authoritarian",
+        "Civil Liberties"
+      ],
+      "keyword_count": 8,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Rival Security Forces Clash in Sudan Amid Anti-Government Protests",
+          "id": "83931",
+          "match_score": 3,
+          "matched_keywords": [
+            "Protests",
+            "Authoritarian"
+          ]
+        },
+        {
+          "title": "Egypt: Protests Against Military Spread Beyond Cairo to New Cities",
+          "id": "25764",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Protests in Iran: Then and Now",
+          "id": "8559",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Protests Over Gas Prices in Jordan Turn Deadly",
+          "id": "32046",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Rare Protests Against Egyptâs Leader Erupt in Cairo and Elsewhere",
+          "id": "86982",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Myanmarâs Protests, Explained",
+          "id": "98439",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Is Zimbabweâs President Showing His True Colors After Violent Protests?",
+          "id": "82512",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Iraqâs Sadr Encourages Antigovernment Demonstrations",
+          "id": "32990",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Photos From the Hong Kong Extradition Protests",
+          "id": "85060",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Kenya Bans âUnlawfulâ?Demonstrations",
+          "id": "65980",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Hong Kongâs Leader, Carrie Lam, to Withdraw Extradition Bill That Ignited Protests",
+          "id": "86668",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "As Deaths Mount in Iraq Protests, a Rocket Attack Raises New Questions",
+          "id": "87925",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Thailandâs Premier Survives Vote as Protests Continue",
+          "id": "39723",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Uneasy Calm Falls Over Gaza After Israel Kills Scores at Protests",
+          "id": "78275",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Kenya Protests Turn Violent",
+          "id": "65947",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Peopleâs Daily Condemns Pro-Democracy Protests in Hong Kong",
+          "id": "47619",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Security Forces Restrained as Syrian Protests Spread",
+          "id": "21642",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Self-Immolation Protests Spread Across North Africa",
+          "id": "18740",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "From France to Indonesia, Marking May Day With Protests",
+          "id": "72165",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Workers Across Europe Synchronize Protests",
+          "id": "32031",
+          "match_score": 3,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Egyptians React to Mubarak Speech",
+          "id": "19425",
+          "match_score": 2,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "U.S. Bars Travel by Top Venezuelan Officials",
+          "id": "45915",
+          "match_score": 2,
+          "matched_keywords": [
+            "Human Rights",
+            "Demonstrations"
+          ]
+        },
+        {
+          "title": "One Year After ChÃ¡vezâs Death, a Divide in Venezuelansâ?Fervor",
+          "id": "41817",
+          "match_score": 2,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Pakistan Orders an Inquiry After Troops Kill a Teenager",
+          "id": "21921",
+          "match_score": 2,
+          "matched_keywords": [
+            "Human Rights",
+            "Protests"
+          ]
+        },
+        {
+          "title": "As Hong Kong Protesters Push On, No Sign of More Concessions by Government",
+          "id": "86694",
+          "match_score": 2,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Venezuela Is Divided Even on Its Death Toll",
+          "id": "41516",
+          "match_score": 2,
+          "matched_keywords": [
+            "Demonstrations",
+            "Protests"
+          ]
+        },
+        {
+          "title": "Homemade Bomb Detonated for First Time in Hong Kong Protests",
+          "id": "87410",
+          "match_score": 2,
+          "matched_keywords": [
+            "Protests"
+          ]
+        },
+        {
+          "title": "Protests at Annual Bull-Killing Festival",
+          "id": "57494",
+          "match_score": 2,
+          "matched_keywords": [
+            "Protests"
+          ]
+        },
+        {
+          "title": "May Day Protests in Turkey",
+          "id": "43434",
+          "match_score": 2,
+          "matched_keywords": [
+            "Protests"
+          ]
+        },
+        {
+          "title": "Kashmir: More Deadly Protests Over Disputed Region",
+          "id": "15880",
+          "match_score": 2,
+          "matched_keywords": [
+            "Protests"
+          ]
+        },
+        {
+          "title": "Human Rights Panel Criticizes U.S.",
+          "id": "42481",
+          "match_score": 2,
+          "matched_keywords": [
+            "Human Rights"
+          ]
+        },
+        {
+          "title": "In Belarus, Women Led the Protests and Shattered Stereotypes",
+          "id": "94066",
+          "match_score": 2,
+          "matched_keywords": [
+            "Protests"
+          ]
+        },
+        {
+          "title": "Libyan Prime Minister Survives Assassination Attempt Amid Protests",
+          "id": "53732",
+          "match_score": 2,
+          "matched_keywords": [
+            "Protests"
+          ]
+        },
+        {
+          "title": "Human Rights Council Ratchets Up Pressure on Myanmar",
+          "id": "80448",
+          "match_score": 2,
+          "matched_keywords": [
+            "Human Rights"
+          ]
+        },
+        {
+          "title": "In Syria, Demonstrations Are Few and Brief",
+          "id": "20056",
+          "match_score": 2,
+          "matched_keywords": [
+            "Demonstrations"
+          ]
+        },
+        {
+          "title": "Protests Grow in Thailand, Where Speaking Out Can Be Perilous",
+          "id": "92962",
+          "match_score": 2,
+          "matched_keywords": [
+            "Protests"
+          ]
+        },
+        {
+          "title": "China Sentences Taiwanese Human Rights Activist in Subversion Case",
+          "id": "75645",
+          "match_score": 2,
+          "matched_keywords": [
+            "Human Rights"
+          ]
+        },
+        {
+          "title": "âOn Social Media, There Are Thousandsâ? In Cuba, Internet Fuels Rare Protests",
+          "id": "95479",
+          "match_score": 2,
+          "matched_keywords": [
+            "Protests"
+          ]
+        },
+        {
+          "title": "1965: Belgium Protests Acquittal",
+          "id": "60938",
+          "match_score": 2,
+          "matched_keywords": [
+            "Protests"
+          ]
+        },
+        {
+          "title": "Climate Protests in London Occupy Major Landmarks",
+          "id": "84071",
+          "match_score": 2,
+          "matched_keywords": [
+            "Protests"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 40
+      }
+    },
+    {
+      "topic_num": 6,
+      "summary": "Natural disasters including earthquakes, tsunamis, hurricanes, floods, and their impact on affected communities.",
+      "keywords": [
+        "Earthquakes",
+        "Tsunamis",
+        "Hurricanes",
+        "Floods",
+        "Natural Disasters",
+        "Emergency Response",
+        "Evacuations",
+        "Deaths"
+      ],
+      "keyword_count": 8,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Itâs âOne Tough Yearâ?After Hurricanes Tore Through British Virgin Islands",
+          "id": "80374",
+          "match_score": 2,
+          "matched_keywords": [
+            "Hurricanes"
+          ]
+        },
+        {
+          "title": "In Clashes With Police, Egyptians Unleash Fury Over Soccer Riot Deaths",
+          "id": "26578",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Chinese Executives Held in Construction Site Deaths",
+          "id": "12173",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "âIt Is Our Faultâ? El Salvadorâs President Takes Blame for Migrant Deaths in Rio Grande",
+          "id": "85527",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Intense Downpour Floods Athens and Strands Motorists",
+          "id": "34099",
+          "match_score": 2,
+          "matched_keywords": [
+            "Floods"
+          ]
+        },
+        {
+          "title": "Quick Analysis Finds Effect of Climate Change in French Floods",
+          "id": "66050",
+          "match_score": 2,
+          "matched_keywords": [
+            "Floods"
+          ]
+        },
+        {
+          "title": "Karzai Lashes Out at NATO Over Deaths",
+          "id": "27382",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Panel on Haitian Prison Deaths",
+          "id": "14702",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "As India Loosens Its Strict Lockdown, Coronavirus Deaths Jump Sharply",
+          "id": "91231",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "In Pakistan, Police See Political Revenge Behind Poisoning Deaths",
+          "id": "37148",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "By Wind, Water or Flame, Natural Disasters Strike",
+          "id": "20628",
+          "match_score": 2,
+          "matched_keywords": [
+            "Natural Disasters"
+          ]
+        },
+        {
+          "title": "U.S. Strategy in Pakistan Is Upended by Floods",
+          "id": "16131",
+          "match_score": 2,
+          "matched_keywords": [
+            "Floods"
+          ]
+        },
+        {
+          "title": "Deaths Fell in Japan Last Year. How?",
+          "id": "98875",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Bali Volcano Eruption Triggers More Evacuations",
+          "id": "75627",
+          "match_score": 2,
+          "matched_keywords": [
+            "Evacuations"
+          ]
+        },
+        {
+          "title": "Three Days, 700 Deaths on Mediterranean as Migrant Crisis Flares",
+          "id": "65774",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "On a Scottish Isle, Nursing Home Deaths Expose a Covid-19 Scandal",
+          "id": "91539",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "A Grim Portrait of Civilian Deaths in Iraq",
+          "id": "17241",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Canada: Storm Floods Toronto",
+          "id": "36923",
+          "match_score": 2,
+          "matched_keywords": [
+            "Floods"
+          ]
+        },
+        {
+          "title": "Civilian Deaths Due to Drones Are Not Many, Obama Says",
+          "id": "26517",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Editor Reviewing China Quake Deaths Is Sentenced",
+          "id": "12715",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Ebola Deaths Doubled in a Month, Health Group Says",
+          "id": "47229",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Philippine Floods Put Popular Leader to Test",
+          "id": "25816",
+          "match_score": 2,
+          "matched_keywords": [
+            "Floods"
+          ]
+        },
+        {
+          "title": "Hundreds of Deaths as Europe Struggles With Snow Amid an Intense Cold Snap",
+          "id": "26633",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "More Rain for Britain After Floods",
+          "id": "11294",
+          "match_score": 2,
+          "matched_keywords": [
+            "Floods"
+          ]
+        },
+        {
+          "title": "The Grisly Deaths of a Woman and a Girl Shock Mexico and Test Its President",
+          "id": "89825",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "In Venice Floods, Tourists Frolic as Locals Fear for Treasures",
+          "id": "81137",
+          "match_score": 2,
+          "matched_keywords": [
+            "Floods"
+          ]
+        },
+        {
+          "title": "Brain Swelling Tied to Deaths From Malaria",
+          "id": "51964",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Cyclone Fani Hits Bangladesh, Killing 5; Evacuations Prevent More Casualties",
+          "id": "84386",
+          "match_score": 2,
+          "matched_keywords": [
+            "Evacuations"
+          ]
+        },
+        {
+          "title": "Colombia Bridge Collapse Throws Workers to Their Deaths",
+          "id": "76410",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "As Deaths Mount in Iraq Protests, a Rocket Attack Raises New Questions",
+          "id": "87925",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "U.S. sets record for daily deaths as hospitals nationwide near or exceed capacity.",
+          "id": "95494",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Comparing the Las Vegas Attack With Daily Gun Deaths in U.S. Cities",
+          "id": "74847",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "South Korea Investigates Deaths of 3 Chinese Fishermen in Crackdown",
+          "id": "68376",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Cholera Deaths in Haiti Could Far Exceed Official Count",
+          "id": "63794",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Canada: Ruling Says Towerâs Windows Caused Deaths of 900 Birds in Toronto",
+          "id": "32054",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Floods in Pakistan Kill at Least 800",
+          "id": "15843",
+          "match_score": 2,
+          "matched_keywords": [
+            "Floods"
+          ]
+        },
+        {
+          "title": "U.S. Airstrike Inquiry at Odds With Reports of More Afghan Deaths",
+          "id": "3803",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "U.S. âProbably Had a Roleâ?in Mosul Deaths, Commander Says",
+          "id": "71566",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "Dutch Inquiry Links Russia to 298 Deaths in Explosion of Jetliner Over Ukraine",
+          "id": "68333",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        },
+        {
+          "title": "In Resolution, U.N. Council Presses Sri Lanka on Civilian Deaths",
+          "id": "27490",
+          "match_score": 2,
+          "matched_keywords": [
+            "Deaths"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 40
+      }
+    },
+    {
+      "topic_num": 7,
+      "summary": "Nuclear weapons programs, arms control negotiations, and international efforts to prevent nuclear proliferation.",
+      "keywords": [
+        "Nuclear Weapons",
+        "North Korea",
+        "Iran",
+        "Arms Control",
+        "Nuclear Tests",
+        "Sanctions",
+        "Proliferation",
+        "Disarmament"
+      ],
+      "keyword_count": 8,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "U.S. Envoy Holds Talks on North Korea Sanctions",
+          "id": "15866",
+          "match_score": 5,
+          "matched_keywords": [
+            "Nuclear Weapons",
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Sanctions Against Iran Grow Tighter, but Whatâs the Next Step?",
+          "id": "26385",
+          "match_score": 5,
+          "matched_keywords": [
+            "Nuclear Weapons",
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "North Korea Says U.N. Sanctions Are Causing âColossalâ?Damage",
+          "id": "74750",
+          "match_score": 5,
+          "matched_keywords": [
+            "Nuclear Weapons",
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "U.S. Penalizes Companies for Selling Arms Technology",
+          "id": "4619",
+          "match_score": 4,
+          "matched_keywords": [
+            "Nuclear Weapons",
+            "North Korea",
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Trump Moves to Widen U.S. Sanctions on North Korea",
+          "id": "74633",
+          "match_score": 4,
+          "matched_keywords": [
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "North Korea Calls U.N. Sanctions an âAct of Warâ?Foreign",
+          "id": "76082",
+          "match_score": 4,
+          "matched_keywords": [
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "New Sanctions Imposed on Iran to Halt Gold Trading",
+          "id": "36769",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Iran Threatens to Block Oil Shipments, as U.S. Prepares Sanctions",
+          "id": "25820",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Iran Says U.S. Sanctions Are Taking Lives. U.S. Officials Disagree.",
+          "id": "90674",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Germany Supports Tougher Iran Sanctions",
+          "id": "12277",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Strained by Sanctions, Iran Eases Money Policy",
+          "id": "27436",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Clinton Urges Gulf States to Maintain Iran Sanctions",
+          "id": "18597",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Talks on North Korea Sanctions Stall Over Inspections",
+          "id": "8385",
+          "match_score": 4,
+          "matched_keywords": [
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Envoys to Meet on Possible Sanctions Over Iran Nuclear Program",
+          "id": "12223",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "U.N. Toughens Sanctions on North Korea in Response to Its Nuclear Program",
+          "id": "63256",
+          "match_score": 4,
+          "matched_keywords": [
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Medvedev Says Russia May Back Sanctions on Iran if Deal Falls Apart",
+          "id": "11044",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Supreme Leader Doubts Talks Will End Iran Sanctions",
+          "id": "51246",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "How Bitcoin Could Help Iran Undermine U.S. Sanctions",
+          "id": "82631",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Iran Takes U.S. to Court Over Nuclear Deal and Reimposed Sanctions",
+          "id": "79295",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Iran Bars Nuclear Inspectors In Response to Sanctions",
+          "id": "15160",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Europe Imposes New Sanctions on Iran",
+          "id": "15757",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "After U.S. Compromise, Security Council Strengthens North Korea Sanctions",
+          "id": "74475",
+          "match_score": 4,
+          "matched_keywords": [
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "France and Germany Warn of New Iran Sanctions",
+          "id": "9831",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Banker From Turkey Is Convicted in U.S. Over Plot to Evade Iran Sanctions",
+          "id": "76214",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "U.S. Sets New Sanctions Against Technology for Syria and Iran",
+          "id": "28073",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Brown Says Europe Will Tighten Iran Sanctions",
+          "id": "2625",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "United States and Its Allies Expand Sanctions on Iran",
+          "id": "25097",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Iran Sanctions Jury Deliberates: Was Banker a Liar or a Pawn?",
+          "id": "76028",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "With New Sanctions, European Union Tightens Screws on Iran Over Nuclear Work",
+          "id": "31428",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "U.N. Council to Expand North Korea Sanctions",
+          "id": "27954",
+          "match_score": 4,
+          "matched_keywords": [
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "China Opposes Iran Sanctions Sought by U.S.",
+          "id": "10290",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Iran: Sanctions Likely to Grow",
+          "id": "25126",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "More Sanctions on North Korea After Sony Case",
+          "id": "50052",
+          "match_score": 4,
+          "matched_keywords": [
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Value of Iran Sanctions Relief Is Hard to Measure",
+          "id": "56125",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Trump Eyes China Sanctions While Seeking Its Help on North Korea",
+          "id": "74010",
+          "match_score": 4,
+          "matched_keywords": [
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "Iran Sanctions Take Unexpected Toll on Medical Imports",
+          "id": "31799",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "U.S. Exempts Japan and 10 Other Countries From Sanctions Over Iran Oil",
+          "id": "27460",
+          "match_score": 4,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "U.S. Weighs Tighter Sanctions on North Korea if China Fails to Act",
+          "id": "61783",
+          "match_score": 4,
+          "matched_keywords": [
+            "North Korea",
+            "Sanctions"
+          ]
+        },
+        {
+          "title": "U.S. General Urges Nuclear Upgrade as Russia Grows âMore Aggressiveâ?Foreign",
+          "id": "71438",
+          "match_score": 3,
+          "matched_keywords": [
+            "Nuclear Weapons",
+            "Arms Control",
+            "Disarmament"
+          ]
+        },
+        {
+          "title": "Iran Ruling In Europe Draws Anger From U.S.",
+          "id": "38017",
+          "match_score": 3,
+          "matched_keywords": [
+            "Iran",
+            "Sanctions"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 40
+      }
+    },
+    {
+      "topic_num": 8,
+      "summary": "Immigration, refugee crises, and border control issues affecting migrants and displaced populations worldwide.",
+      "keywords": [
+        "Immigration",
+        "Refugees",
+        "Border Control",
+        "Asylum",
+        "Migrants",
+        "Deportation",
+        "Human Trafficking",
+        "Displaced Persons"
+      ],
+      "keyword_count": 8,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Seeking Asylum in Australia, Refugees Find a Policy in Flux",
+          "id": "37803",
+          "match_score": 4,
+          "matched_keywords": [
+            "Refugees",
+            "Asylum"
+          ]
+        },
+        {
+          "title": "Drug War Refugees Seek Asylum at the Texas Border",
+          "id": "13956",
+          "match_score": 4,
+          "matched_keywords": [
+            "Refugees",
+            "Asylum"
+          ]
+        },
+        {
+          "title": "Violent Backlash Against Migrants in Germany as Asylum-Seekers Pour In",
+          "id": "56354",
+          "match_score": 4,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "In Italy, Shantytowns of Refugees Reflect Paradox on Asylum",
+          "id": "32901",
+          "match_score": 4,
+          "matched_keywords": [
+            "Refugees",
+            "Asylum"
+          ]
+        },
+        {
+          "title": "Europe Banks on Incentives and Persuasion to Keep Migrants Home",
+          "id": "59587",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Facing Wave of Refugees, Montreal Opens Up Stadium for Housing",
+          "id": "73858",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Asylum"
+          ]
+        },
+        {
+          "title": "Ukrainian Migrants Fleeing Conflict Get a Cool Reception in Europe",
+          "id": "53863",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Facebook Groupâs Push for Safe Land Passage for Migrants Founders",
+          "id": "57644",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Canada May Miss Goal to Admit 10,000 Refugees by Yearâs End",
+          "id": "60996",
+          "match_score": 3,
+          "matched_keywords": [
+            "Immigration",
+            "Refugees"
+          ]
+        },
+        {
+          "title": "Greece Rounds Up Migrants on Kos, Locking Them in Stadium Overnight",
+          "id": "56321",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Migrants in Greece, Ready to Go Anywhere in Europe, Scramble to Enter E.U. Relocation Program",
+          "id": "64027",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Greece Begins Moving Refugees Out of Idomeni Camp",
+          "id": "65646",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Premier of Australia Backs Plan on Refugees",
+          "id": "30098",
+          "match_score": 3,
+          "matched_keywords": [
+            "Immigration",
+            "Refugees"
+          ]
+        },
+        {
+          "title": "Volunteers, Many Once Refugees Themselves, Help as Guides in Vienna",
+          "id": "57809",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "A Three-Ring Circus in Finland: Soldiers, âLoldiersâ?and Asylum Seekers",
+          "id": "62504",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Asylum"
+          ]
+        },
+        {
+          "title": "Shipâs Captains Call for Uniform Policies on Migrants at Sea",
+          "id": "52864",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Obamaâs Defender of\nBorders Is Again a\nVoice for Migrants",
+          "id": "35564",
+          "match_score": 3,
+          "matched_keywords": [
+            "Migrants",
+            "Deportation"
+          ]
+        },
+        {
+          "title": "Migrants Cross Austria Border From Hungary",
+          "id": "57113",
+          "match_score": 3,
+          "matched_keywords": [
+            "Immigration",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Icelanders Use Facebook to Open Door to Refugees",
+          "id": "57009",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "How a Record Number of Migrants Made Their Way to Europe",
+          "id": "60933",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Pakistan Sends 30 Migrants Back to Europe",
+          "id": "60321",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Taking Hard Line, Greece Turns Back Migrants by Abandoning Them at Sea",
+          "id": "92935",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "European Union Reaches Deal With Turkey to Return New Asylum Seekers",
+          "id": "63780",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "The U.S. Ambassador Who Crossed Trump on Immigration",
+          "id": "80118",
+          "match_score": 3,
+          "matched_keywords": [
+            "Immigration",
+            "Refugees"
+          ]
+        },
+        {
+          "title": "Where the Refugees Pour Into Germany, a 24-Hour Window",
+          "id": "57778",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Asylum"
+          ]
+        },
+        {
+          "title": "âMommy, I Have Bad Newsâ? For Young Migrants, Mexico Can Be the End of the Road",
+          "id": "99559",
+          "match_score": 3,
+          "matched_keywords": [
+            "Migrants",
+            "Deportation"
+          ]
+        },
+        {
+          "title": "British Premier Plans Tougher Stance as Anti-Immigration Sentiment Grows",
+          "id": "49148",
+          "match_score": 3,
+          "matched_keywords": [
+            "Immigration",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Migrants Gather in Slovenia",
+          "id": "59042",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Salvini Seizes on 2nd Italian Teenagerâs Death to Push Immigration Issue",
+          "id": "81031",
+          "match_score": 3,
+          "matched_keywords": [
+            "Immigration",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Nordic Countries, Overwhelmed by Migrants, Retreat From Generous Traditions",
+          "id": "59762",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "European and African Leaders Near Deal on Returning Migrants",
+          "id": "59598",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Leaks Detail Abuse of Asylum Seekers Sent to Nauru by Australia",
+          "id": "67350",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Poor E.U. Migrants Test Limits of Swedish Tolerance",
+          "id": "56224",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Asylum Seeker Who Lost His Son on Trek to Greece Is Charged in His Death",
+          "id": "95061",
+          "match_score": 3,
+          "matched_keywords": [
+            "Asylum",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Stranded Migrants Are Finally Brought to Shore After 19 Days",
+          "id": "82281",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "Greece: U.N. Warns That Migrants May Overwhelm Tourist Island of Lesbos",
+          "id": "54171",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "As Refugees From Haiti Linger, Dominicansâ?Good Will Fades",
+          "id": "23469",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "About 150 Migrants Drown in Shipwreck Off Libya",
+          "id": "85959",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Migrants"
+          ]
+        },
+        {
+          "title": "U.N. Offers âOne-Offâ?Help to Australia in Resettling Refugees in U.S.",
+          "id": "69390",
+          "match_score": 3,
+          "matched_keywords": [
+            "Refugees",
+            "Asylum"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 39
+      }
+    },
+    {
+      "topic_num": 9,
+      "summary": "Coronavirus pandemic including case tracking, vaccination efforts, public health measures, and global response to COVID-19.",
+      "keywords": [
+        "Coronavirus",
+        "COVID-19",
+        "Pandemic",
+        "Vaccination",
+        "Quarantine",
+        "Public Health",
+        "Disease Rates",
+        "Lockdown"
+      ],
+      "keyword_count": 8,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Mass Vaccination, Indiaâs Covid-19 Escape Route, Poses a Giant Challenge",
+          "id": "100031",
+          "match_score": 5,
+          "matched_keywords": [
+            "COVID-19",
+            "Pandemic",
+            "Vaccination"
+          ]
+        },
+        {
+          "title": "Amid the Coronavirus Pandemic, a Battle Emerges Over Green Spaces",
+          "id": "95107",
+          "match_score": 5,
+          "matched_keywords": [
+            "Coronavirus",
+            "Pandemic",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "Despite Chileâs Speedy Covid-19 Vaccination Drive, Cases Soar",
+          "id": "99516",
+          "match_score": 5,
+          "matched_keywords": [
+            "COVID-19",
+            "Pandemic",
+            "Vaccination"
+          ]
+        },
+        {
+          "title": "Musicians Playing Through the Lockdown, to One Listener at a Time",
+          "id": "91728",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "Pandemic",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "Bolsonaro Hails Anti-Malaria Pill Even as He Fights Coronavirus",
+          "id": "92294",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "COVID-19",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "Chile to Issue Coronavirus âImmunity Cardsâ?to Those Who Recover",
+          "id": "90961",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "Pandemic",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "25 Days That Changed the World: How Covid-19 Slipped Chinaâs Grasp",
+          "id": "95876",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "COVID-19",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "Imams Overrule Pakistanâs Coronavirus Lockdown as Ramadan Nears",
+          "id": "91023",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "As India Loosens Its Strict Lockdown, Coronavirus Deaths Jump Sharply",
+          "id": "91231",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "âLike a Prisonâ? Paris Suburbs Simmer Under Coronavirus Lockdown",
+          "id": "90840",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "Ski, Party, Seed a Pandemic: The Travel Rules That Let Covid-19 Take Flight",
+          "id": "93845",
+          "match_score": 4,
+          "matched_keywords": [
+            "COVID-19",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "India, Day 1: Worldâs Largest Coronavirus Lockdown Begins",
+          "id": "90560",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "Powered by Fear, Indians Embrace Coronavirus Lockdown",
+          "id": "90968",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "China to Ease Coronavirus Lockdown on Hubei 2 Months After Imposing It",
+          "id": "90541",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "Britainâs Coronavirus Lockdown Is Extended, and Putin Postpones Military Parade",
+          "id": "90919",
+          "match_score": 4,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "The pandemic is receding in the worst hot spots globally, but will the downward trend last?",
+          "id": "98858",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "We looked inside Britainâs pandemic spending, and found waste, negligence and cronyism.",
+          "id": "95648",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "Bullfighting, Already Ailing in Spain, Is Battered by Lockdown",
+          "id": "91995",
+          "match_score": 3,
+          "matched_keywords": [
+            "Pandemic",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "As U.S. Schools Move to Reopen Despite Covid-19, Teachers Threaten to Strike",
+          "id": "93031",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "COVID-19"
+          ]
+        },
+        {
+          "title": "The Top Doctor Who Aced the Coronavirus Test",
+          "id": "91734",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "First Came the Lockdown. Then Came the Wildfire.",
+          "id": "98464",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "The Covid-19 Riddle: Why Does the Virus Wallop Some Places and Spare Others?",
+          "id": "91187",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "COVID-19"
+          ]
+        },
+        {
+          "title": "In Russia, a Virus Lockdown Targets the Opposition",
+          "id": "99308",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "Notre Dame Moves Classes Online Amid Covid-19 Outbreak",
+          "id": "93004",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "COVID-19"
+          ]
+        },
+        {
+          "title": "Australia locks down a whole city after finding a single new coronavirus case.",
+          "id": "98435",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Quarantine"
+          ]
+        },
+        {
+          "title": "150,000 Painted Hearts, Each for a Life Lost to Covid-19 in Britain",
+          "id": "99544",
+          "match_score": 3,
+          "matched_keywords": [
+            "COVID-19",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "Tux, Gown, Masks: Arab Couples Scramble to Marry During a Pandemic",
+          "id": "91063",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "A New Covid-19 Crisis: Domestic Abuse Rises Worldwide",
+          "id": "90745",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "COVID-19"
+          ]
+        },
+        {
+          "title": "On a Scottish Isle, Nursing Home Deaths Expose a Covid-19 Scandal",
+          "id": "91539",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "COVID-19"
+          ]
+        },
+        {
+          "title": "Highlighting a rare potential vaccine side effect has risks of its own, public health officials warn.",
+          "id": "99751",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Public Health"
+          ]
+        },
+        {
+          "title": "As Coronavirus Fades in China, Nationalism and Xenophobia Flare",
+          "id": "90923",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "A Reality Check for Italyâs Vaccination Hopes: a Flu-Shot Logjam",
+          "id": "95188",
+          "match_score": 3,
+          "matched_keywords": [
+            "COVID-19",
+            "Vaccination"
+          ]
+        },
+        {
+          "title": "Modiâs Popularity Soars as India Weathers the Pandemic",
+          "id": "91392",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "Hereâs how the U.S. government plans to distribute the first Covid-19 vaccines.",
+          "id": "95169",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "COVID-19"
+          ]
+        },
+        {
+          "title": "Britainâs vaccine rollout is a rare pandemic-response success for the country.",
+          "id": "98421",
+          "match_score": 3,
+          "matched_keywords": [
+            "Pandemic",
+            "Vaccination"
+          ]
+        },
+        {
+          "title": "Amid a Pandemic, âBatmanâ?Matters More Than Ever",
+          "id": "91851",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "With Covid-19 under control, Chinaâs economy surges ahead.",
+          "id": "94238",
+          "match_score": 3,
+          "matched_keywords": [
+            "COVID-19",
+            "Pandemic"
+          ]
+        },
+        {
+          "title": "A new outbreak in Australia prompts a six-day lockdown in one state.",
+          "id": "95050",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        },
+        {
+          "title": "In Some Nations, Coronavirus Is Only One of Many Outbreaks",
+          "id": "91629",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Public Health"
+          ]
+        },
+        {
+          "title": "A Lockdown With Loopholes: New Virus Restrictions Come Into Force in England",
+          "id": "94784",
+          "match_score": 3,
+          "matched_keywords": [
+            "Coronavirus",
+            "Lockdown"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 40
+      }
+    },
+    {
+      "topic_num": 10,
+      "summary": "Economic crises, financial instability, corruption scandals, and their impact on governments and societies.",
+      "keywords": [
+        "Economic Conditions",
+        "Corruption",
+        "Financial Crisis",
+        "Bribery",
+        "Money Laundering",
+        "Economic Sanctions",
+        "Recession",
+        "Fraud"
+      ],
+      "keyword_count": 8,
+      "meets_requirements": true,
+      "source_titles_with_ids": [
+        {
+          "title": "Swiss Widen Inquiry Into Malaysian Fund to Include 2 Emirati Officials",
+          "id": "64495",
+          "match_score": 3,
+          "matched_keywords": [
+            "Bribery",
+            "Money Laundering",
+            "Fraud"
+          ]
+        },
+        {
+          "title": "Venezuela: Former Bank Official Pleads Guilty in Bribery Case",
+          "id": "39511",
+          "match_score": 3,
+          "matched_keywords": [
+            "Corruption",
+            "Bribery"
+          ]
+        },
+        {
+          "title": "French Businessman Investigated on Suspicion of Fraud",
+          "id": "36718",
+          "match_score": 3,
+          "matched_keywords": [
+            "Corruption",
+            "Fraud"
+          ]
+        },
+        {
+          "title": "3 Arrested by British in Inquiry on Bribery",
+          "id": "28010",
+          "match_score": 3,
+          "matched_keywords": [
+            "Corruption",
+            "Bribery"
+          ]
+        },
+        {
+          "title": "Guatemala Arrests Ex-President and His Finance Minister in Corruption Case",
+          "id": "76857",
+          "match_score": 3,
+          "matched_keywords": [
+            "Corruption",
+            "Fraud"
+          ]
+        },
+        {
+          "title": "Filipinos Hold Mass Protest Over Official Corruption",
+          "id": "37795",
+          "match_score": 3,
+          "matched_keywords": [
+            "Corruption",
+            "Bribery"
+          ]
+        },
+        {
+          "title": "In Royal Drama, Spain Sees Its Reality Reflected",
+          "id": "41118",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption",
+            "Money Laundering"
+          ]
+        },
+        {
+          "title": "State Department Official Turned Lobbyist Is Accused of Illegally Working for Sudan",
+          "id": "10850",
+          "match_score": 2,
+          "matched_keywords": [
+            "Money Laundering",
+            "Fraud"
+          ]
+        },
+        {
+          "title": "In Surprise Move, China Jails Australian for 13 Years",
+          "id": "25397",
+          "match_score": 2,
+          "matched_keywords": [
+            "Bribery",
+            "Fraud"
+          ]
+        },
+        {
+          "title": "French Minister Steps Down in Swiss Bank Investigation",
+          "id": "34660",
+          "match_score": 2,
+          "matched_keywords": [
+            "Money Laundering",
+            "Fraud"
+          ]
+        },
+        {
+          "title": "Ehud Olmert, Israeli Ex-Prime Minister, Granted Early Release from Prison",
+          "id": "73255",
+          "match_score": 2,
+          "matched_keywords": [
+            "Bribery",
+            "Fraud"
+          ]
+        },
+        {
+          "title": "The Case Against Netanyahu: Highlights From the Police Investigation",
+          "id": "76858",
+          "match_score": 2,
+          "matched_keywords": [
+            "Bribery",
+            "Fraud"
+          ]
+        },
+        {
+          "title": "Brazilian Businessman Gets Stiff Sentence in Petrobras Scandal",
+          "id": "63454",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption",
+            "Money Laundering"
+          ]
+        },
+        {
+          "title": "China Answers One Question About Trial: A Date",
+          "id": "37654",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption",
+            "Bribery"
+          ]
+        },
+        {
+          "title": "Israel: Former Premier Is Suspect in New Inquiry",
+          "id": "13932",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption",
+            "Bribery"
+          ]
+        },
+        {
+          "title": "Names of Suspects in Bank Fraud Sent to Afghan Courts",
+          "id": "22911",
+          "match_score": 2,
+          "matched_keywords": [
+            "Fraud"
+          ]
+        },
+        {
+          "title": "Jacob Zuma Appears in Court for South Africa Corruption Trial",
+          "id": "77655",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        },
+        {
+          "title": "Reports of Fraud and Violence Temper Joy Over Election in Chaotic Afghan District",
+          "id": "43166",
+          "match_score": 2,
+          "matched_keywords": [
+            "Fraud"
+          ]
+        },
+        {
+          "title": "Worried about recession, Bidenâs team presses for economic aid now.",
+          "id": "95174",
+          "match_score": 2,
+          "matched_keywords": [
+            "Recession"
+          ]
+        },
+        {
+          "title": "Guatemalaâs Presidential Election May Be a Blow to Anti-Corruption Effort",
+          "id": "85165",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        },
+        {
+          "title": "Police Question Olmert in Corruption Inquiry",
+          "id": "3314",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        },
+        {
+          "title": "Peru: Jailed Ex-President Is Convicted of Corruption",
+          "id": "50196",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        },
+        {
+          "title": "Whereâs My Mercedes? Egyptâs Financial Crisis Hits the Rich",
+          "id": "63512",
+          "match_score": 2,
+          "matched_keywords": [
+            "Financial Crisis"
+          ]
+        },
+        {
+          "title": "China Says It Will Prosecute Ex-Security Official in Bribery Case",
+          "id": "70015",
+          "match_score": 2,
+          "matched_keywords": [
+            "Bribery"
+          ]
+        },
+        {
+          "title": "South Africa: Data Show a Recession",
+          "id": "8214",
+          "match_score": 2,
+          "matched_keywords": [
+            "Recession"
+          ]
+        },
+        {
+          "title": "Princess Cristina of Spain Found Not Guilty of Fraud; Husband Is Convicted",
+          "id": "70855",
+          "match_score": 2,
+          "matched_keywords": [
+            "Fraud"
+          ]
+        },
+        {
+          "title": "China to Prosecute Taiwanese in Fraud Case Despite Acquittals in Kenya",
+          "id": "64546",
+          "match_score": 2,
+          "matched_keywords": [
+            "Fraud"
+          ]
+        },
+        {
+          "title": "Voting by Mail Is Popular. So Is the False Idea That Itâs Ripe for Fraud.",
+          "id": "92689",
+          "match_score": 2,
+          "matched_keywords": [
+            "Fraud"
+          ]
+        },
+        {
+          "title": "Brazil Faces a New Corruption Scandal",
+          "id": "32383",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        },
+        {
+          "title": "Brazilian Corruption Case Raises Hopes for Judicial System",
+          "id": "31293",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        },
+        {
+          "title": "Guinea Presidentâs Re-election Confirmed Despite Fraud Complaints",
+          "id": "59237",
+          "match_score": 2,
+          "matched_keywords": [
+            "Fraud"
+          ]
+        },
+        {
+          "title": "South African President Appears Before Corruption Investigators",
+          "id": "100008",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        },
+        {
+          "title": "Former President of Taiwan Is Detained in a Corruption Inquiry",
+          "id": "4892",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        },
+        {
+          "title": "Saudi Arabia Says 200 Detained in Anti-Corruption Crackdown",
+          "id": "75369",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        },
+        {
+          "title": "U.S. and Europe Back New Economic Sanctions Against Russia",
+          "id": "47031",
+          "match_score": 2,
+          "matched_keywords": [
+            "Economic Sanctions"
+          ]
+        },
+        {
+          "title": "Russian Local Elections Draw Charges of Fraud",
+          "id": "57410",
+          "match_score": 2,
+          "matched_keywords": [
+            "Fraud"
+          ]
+        },
+        {
+          "title": "2 Associates of Ex-Security Chief to Face Trial Over Bribery in China",
+          "id": "51982",
+          "match_score": 2,
+          "matched_keywords": [
+            "Bribery"
+          ]
+        },
+        {
+          "title": "Speaking Out on Gay Rights and Corruption Costs Ambassador His Job",
+          "id": "88744",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        },
+        {
+          "title": "Guilty Plea Given in Iraq Contract Fraud",
+          "id": "2540",
+          "match_score": 2,
+          "matched_keywords": [
+            "Fraud"
+          ]
+        },
+        {
+          "title": "Cristina FernÃ¡ndez de Kirchner Indicted Again on Corruption Charges",
+          "id": "69959",
+          "match_score": 2,
+          "matched_keywords": [
+            "Corruption"
+          ]
+        }
+      ],
+      "enhancement_info": {
+        "method": "keyword_matching",
+        "full_dataset_size": 14000,
+        "matches_found": 40
+      }
+    }
+  ],
+  "raw_response": "[\n    {\n        \"Topic 1\": {\n            \"Summary\": \"Climate change and environmental issues including global warming, carbon emissions, and international climate agreements and policies.\",\n            \"Keywords\": [\"Global Warming\", \"Climate Change\", \"Carbon Dioxide\", \"Greenhouse Gas Emissions\", \"Environment\", \"Paris Climate Agreement\", \"Copenhagen\", \"Renewable Energy\"],\n            \"Source Titles\": [\"Left Out in the Cold at the Climate Talks\", \"New Trend in Biofuels Has New Risks\", \"World Bank to Help Cities Control Climate Change\", \"Fixing Climate Change May Add No Costs, Report Says\"]\n        }\n    },\n    {\n        \"Topic 2\": {\n            \"Summary\": \"International conflicts and wars including Syria, Iraq, Afghanistan, and other military interventions and their humanitarian consequences.\",\n            \"Keywords\": [\"Syria\", \"Iraq\", \"Afghanistan War\", \"Defense and Military Forces\", \"Civilian Casualties\", \"Taliban\", \"Islamic State\", \"War Crimes\"],\n            \"Source Titles\": [\"Syrian Forces Shell Cities as Opposition Picks Leader\", \"Iraqi Government Raid Threatens to Inflame Province's Tensions\", \"Taliban Assault on Afghan Compound Leaves Dozens Dead\", \"U.S. Soldier Kills 5 of His Comrades in Iraq\"]\n        }\n    },\n    {\n        \"Topic 3\": {\n            \"Summary\": \"Terrorism attacks, counterterrorism efforts, and security threats across various countries and regions.\",\n            \"Keywords\": [\"Terrorism\", \"Islamic State\", \"Al Qaeda\", \"Bombs and Explosives\", \"Security\", \"Counterterrorism\", \"Attacks\", \"Extremism\"],\n            \"Source Titles\": [\"Terrorists Strike Charlie Hebdo Newspaper in Paris, Leaving 12 Dead\", \"Manchester Attacker Mainly Acted Alone, U.K. Police Say\", \"London Protesters Warily Watch New York\", \"Suicide Bomber Kills at Least 17 at Funeral in Afghanistan\"]\n        }\n    },\n    {\n        \"Topic 4\": {\n            \"Summary\": \"Elections, political campaigns, and democratic processes in various countries including the United States and international elections.\",\n            \"Keywords\": [\"Elections\", \"Presidential Election\", \"Politics and Government\", \"Voting\", \"Campaigns\", \"Democracy\", \"Political Parties\", \"Primaries\"],\n            \"Source Titles\": [\"Intensity Increases in Republican Debate\", \"New Hampshire Poll Shows Bernie Sanders in Dead Heat With Hillary Clinton\", \"Lincoln Chafee Withdraws From Presidential Race\", \"What Are the Rules for Trump and Biden's Last Debate?\"]\n        }\n    },\n    {\n        \"Topic 5\": {\n            \"Summary\": \"Human rights violations, political prisoners, and authoritarian crackdowns on civil liberties and freedom of expression.\",\n            \"Keywords\": [\"Human Rights\", \"Political Prisoners\", \"Freedom of Speech\", \"Censorship\", \"Demonstrations\", \"Protests\", \"Authoritarian\", \"Civil Liberties\"],\n            \"Source Titles\": [\"China's 'Soft Prohibition'\", \"Without Explanation, China Releases 3 Activists\", \"Prominent Chinese Dissident Hu Jia Is Released From Jail\", \"Fighting on Behalf of China's Women – From the United States\"]\n        }\n    },\n    {\n        \"Topic 6\": {\n            \"Summary\": \"Natural disasters including earthquakes, tsunamis, hurricanes, floods, and their impact on affected communities.\",\n            \"Keywords\": [\"Earthquakes\", \"Tsunamis\", \"Hurricanes\", \"Floods\", \"Natural Disasters\", \"Emergency Response\", \"Evacuations\", \"Deaths\"],\n            \"Source Titles\": [\"Haitian Mother Didn't Give Up on Son, Who Eventually Was Pulled From Ruins\", \"Indonesia Tsunami Death Toll Climbs Above 800\", \"Cyclone Nivar Reaches India, Battering Its Eastern Coast\", \"Flash Flooding in Indonesia Kills at Least 50\"]\n        }\n    },\n    {\n        \"Topic 7\": {\n            \"Summary\": \"Nuclear weapons programs, arms control negotiations, and international efforts to prevent nuclear proliferation.\",\n            \"Keywords\": [\"Nuclear Weapons\", \"North Korea\", \"Iran\", \"Arms Control\", \"Nuclear Tests\", \"Sanctions\", \"Proliferation\", \"Disarmament\"],\n            \"Source Titles\": [\"Deal on Verifying North Korean Disarmament\", \"Iran's President Moves Ahead on Uranium Processing\", \"North Korea Decides to Indict 2 U.S. Reporters\", \"Iran Seeks Ban on Striking Atomic Sites\"]\n        }\n    },\n    {\n        \"Topic 8\": {\n            \"Summary\": \"Immigration, refugee crises, and border control issues affecting migrants and displaced populations worldwide.\",\n            \"Keywords\": [\"Immigration\", \"Refugees\", \"Border Control\", \"Asylum\", \"Migrants\", \"Deportation\", \"Human Trafficking\", \"Displaced Persons\"],\n            \"Source Titles\": [\"Desperation Fuels Trips of Migrants to Spain\", \"Facing Wave of Refugees, Montreal Opens Up Stadium for Housing\", \"Germany Bars Violent Migrants From Deportation\", \"Dozens of Migrants Drown as Boat Capsizes in Aegean Sea\"]\n        }\n    },\n    {\n        \"Topic 9\": {\n            \"Summary\": \"Coronavirus pandemic including case tracking, vaccination efforts, public health measures, and global response to COVID-19.\",\n            \"Keywords\": [\"Coronavirus\", \"COVID-19\", \"Pandemic\", \"Vaccination\", \"Quarantine\", \"Public Health\", \"Disease Rates\", \"Lockdown\"],\n            \"Source Titles\": [\"California Confirms Coronavirus Patient, Marking Third U.S. Case\", \"See Which States and Cities Have Told Residents to Stay at Home\", \"The World Reopens, Despite Skyrocketing Coronavirus Cases\", \"Brazil Passes 1 Million Coronavirus Cases, Adding 54,000 in a Day\"]\n        }\n    },\n    {\n        \"Topic 10\": {\n            \"Summary\": \"Economic crises, financial instability, corruption scandals, and their impact on governments and societies.\",\n            \"Keywords\": [\"Economic Conditions\", \"Corruption\", \"Financial Crisis\", \"Bribery\", \"Money Laundering\", \"Economic Sanctions\", \"Recession\", \"Fraud\"],\n            \"Source Titles\": [\"Greece: U.N. Warns That Migrants May Overwhelm Tourist Island of Lesbos\", \"Turkey's Crisis Exposes the Perils of Strongman Rule\", \"Malaysia's Prime Minister Bars Najib Razak From Leaving\", \"An Ex-Governor Is Gunned Down, Punctuating a Deadly Year for Mexico\"]\n        }\n    }\n]",
+  "all_responses": [
+    "[\n    {\n        \"Topic 1\": {\n            \"Summary\": \"Climate change and environmental issues including global warming, carbon emissions, and international climate agreements and policies.\",\n            \"Keywords\": [\"Global Warming\", \"Climate Change\", \"Carbon Dioxide\", \"Greenhouse Gas Emissions\", \"Environment\", \"Paris Climate Agreement\", \"Copenhagen\", \"Renewable Energy\"],\n            \"Source Titles\": [\"Left Out in the Cold at the Climate Talks\", \"New Trend in Biofuels Has New Risks\", \"World Bank to Help Cities Control Climate Change\", \"Fixing Climate Change May Add No Costs, Report Says\"]\n        }\n    },\n    {\n        \"Topic 2\": {\n            \"Summary\": \"International conflicts and wars including Syria, Iraq, Afghanistan, and other military interventions and their humanitarian consequences.\",\n            \"Keywords\": [\"Syria\", \"Iraq\", \"Afghanistan War\", \"Defense and Military Forces\", \"Civilian Casualties\", \"Taliban\", \"Islamic State\", \"War Crimes\"],\n            \"Source Titles\": [\"Syrian Forces Shell Cities as Opposition Picks Leader\", \"Iraqi Government Raid Threatens to Inflame Province's Tensions\", \"Taliban Assault on Afghan Compound Leaves Dozens Dead\", \"U.S. Soldier Kills 5 of His Comrades in Iraq\"]\n        }\n    },\n    {\n        \"Topic 3\": {\n            \"Summary\": \"Terrorism attacks, counterterrorism efforts, and security threats across various countries and regions.\",\n            \"Keywords\": [\"Terrorism\", \"Islamic State\", \"Al Qaeda\", \"Bombs and Explosives\", \"Security\", \"Counterterrorism\", \"Attacks\", \"Extremism\"],\n            \"Source Titles\": [\"Terrorists Strike Charlie Hebdo Newspaper in Paris, Leaving 12 Dead\", \"Manchester Attacker Mainly Acted Alone, U.K. Police Say\", \"London Protesters Warily Watch New York\", \"Suicide Bomber Kills at Least 17 at Funeral in Afghanistan\"]\n        }\n    },\n    {\n        \"Topic 4\": {\n            \"Summary\": \"Elections, political campaigns, and democratic processes in various countries including the United States and international elections.\",\n            \"Keywords\": [\"Elections\", \"Presidential Election\", \"Politics and Government\", \"Voting\", \"Campaigns\", \"Democracy\", \"Political Parties\", \"Primaries\"],\n            \"Source Titles\": [\"Intensity Increases in Republican Debate\", \"New Hampshire Poll Shows Bernie Sanders in Dead Heat With Hillary Clinton\", \"Lincoln Chafee Withdraws From Presidential Race\", \"What Are the Rules for Trump and Biden's Last Debate?\"]\n        }\n    },\n    {\n        \"Topic 5\": {\n            \"Summary\": \"Human rights violations, political prisoners, and authoritarian crackdowns on civil liberties and freedom of expression.\",\n            \"Keywords\": [\"Human Rights\", \"Political Prisoners\", \"Freedom of Speech\", \"Censorship\", \"Demonstrations\", \"Protests\", \"Authoritarian\", \"Civil Liberties\"],\n            \"Source Titles\": [\"China's 'Soft Prohibition'\", \"Without Explanation, China Releases 3 Activists\", \"Prominent Chinese Dissident Hu Jia Is Released From Jail\", \"Fighting on Behalf of China's Women – From the United States\"]\n        }\n    },\n    {\n        \"Topic 6\": {\n            \"Summary\": \"Natural disasters including earthquakes, tsunamis, hurricanes, floods, and their impact on affected communities.\",\n            \"Keywords\": [\"Earthquakes\", \"Tsunamis\", \"Hurricanes\", \"Floods\", \"Natural Disasters\", \"Emergency Response\", \"Evacuations\", \"Deaths\"],\n            \"Source Titles\": [\"Haitian Mother Didn't Give Up on Son, Who Eventually Was Pulled From Ruins\", \"Indonesia Tsunami Death Toll Climbs Above 800\", \"Cyclone Nivar Reaches India, Battering Its Eastern Coast\", \"Flash Flooding in Indonesia Kills at Least 50\"]\n        }\n    },\n    {\n        \"Topic 7\": {\n            \"Summary\": \"Nuclear weapons programs, arms control negotiations, and international efforts to prevent nuclear proliferation.\",\n            \"Keywords\": [\"Nuclear Weapons\", \"North Korea\", \"Iran\", \"Arms Control\", \"Nuclear Tests\", \"Sanctions\", \"Proliferation\", \"Disarmament\"],\n            \"Source Titles\": [\"Deal on Verifying North Korean Disarmament\", \"Iran's President Moves Ahead on Uranium Processing\", \"North Korea Decides to Indict 2 U.S. Reporters\", \"Iran Seeks Ban on Striking Atomic Sites\"]\n        }\n    },\n    {\n        \"Topic 8\": {\n            \"Summary\": \"Immigration, refugee crises, and border control issues affecting migrants and displaced populations worldwide.\",\n            \"Keywords\": [\"Immigration\", \"Refugees\", \"Border Control\", \"Asylum\", \"Migrants\", \"Deportation\", \"Human Trafficking\", \"Displaced Persons\"],\n            \"Source Titles\": [\"Desperation Fuels Trips of Migrants to Spain\", \"Facing Wave of Refugees, Montreal Opens Up Stadium for Housing\", \"Germany Bars Violent Migrants From Deportation\", \"Dozens of Migrants Drown as Boat Capsizes in Aegean Sea\"]\n        }\n    },\n    {\n        \"Topic 9\": {\n            \"Summary\": \"Coronavirus pandemic including case tracking, vaccination efforts, public health measures, and global response to COVID-19.\",\n            \"Keywords\": [\"Coronavirus\", \"COVID-19\", \"Pandemic\", \"Vaccination\", \"Quarantine\", \"Public Health\", \"Disease Rates\", \"Lockdown\"],\n            \"Source Titles\": [\"California Confirms Coronavirus Patient, Marking Third U.S. Case\", \"See Which States and Cities Have Told Residents to Stay at Home\", \"The World Reopens, Despite Skyrocketing Coronavirus Cases\", \"Brazil Passes 1 Million Coronavirus Cases, Adding 54,000 in a Day\"]\n        }\n    },\n    {\n        \"Topic 10\": {\n            \"Summary\": \"Economic crises, financial instability, corruption scandals, and their impact on governments and societies.\",\n            \"Keywords\": [\"Economic Conditions\", \"Corruption\", \"Financial Crisis\", \"Bribery\", \"Money Laundering\", \"Economic Sanctions\", \"Recession\", \"Fraud\"],\n            \"Source Titles\": [\"Greece: U.N. Warns That Migrants May Overwhelm Tourist Island of Lesbos\", \"Turkey's Crisis Exposes the Perils of Strongman Rule\", \"Malaysia's Prime Minister Bars Najib Razak From Leaving\", \"An Ex-Governor Is Gunned Down, Punctuating a Deadly Year for Mexico\"]\n        }\n    }\n]"
+  ],
+  "retry_info": {
+    "total_retries": 1,
+    "format_parse_failed": false
+  },
+  "cost_analysis": {
+    "model": "anthropic/claude-sonnet-4",
+    "input_tokens": 151880,
+    "output_tokens": 1723,
+    "estimated_cost": 0.60564,
+    "actual_cost": 0.481485,
+    "cost_info": "总计: $0.481485"
+  }
+}

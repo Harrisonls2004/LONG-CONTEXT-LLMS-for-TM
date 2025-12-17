@@ -1,0 +1,32 @@
+# Core dependencies
+openai>=1.0.0
+pandas>=1.5.0
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+requests>=2.25.0
+
+# Deep learning and transformers
+torch>=1.9.0
+transformers>=4.20.0
+sentence-transformers>=2.2.0
+
+# Traditional topic modeling
+gensim>=4.2.0
+bertopic>=0.15.0
+octis>=1.10.0
+
+# Visualization and analysis
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+wordcloud>=1.8.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional utilities
+tqdm>=4.60.0
+pathlib>=1.0.0
+json5>=0.9.0

@@ -1,0 +1,76 @@
+{
+  "metric_name": "指令约束格式下主题数量上限",
+  "model": "qwen/qwen3-235b-a22b:free",
+  "sample_size": 100,
+  "input_statistics": {
+    "text_length": 17364,
+    "document_count": 100
+  },
+  "llm_self_estimation": {
+    "estimated_topics_count": 0,
+    "confidence_level": "unknown",
+    "reasoning": "Failed to parse estimation"
+  },
+  "generation_results": {
+    "max_attempts": 3,
+    "successful_attempts": 2,
+    "max_topics_generated": 89,
+    "average_topics": 76.5,
+    "min_topics": 64,
+    "topic_generation_stability": 12.5,
+    "success_rate": 0.67
+  },
+  "estimation_accuracy": {
+    "llm_estimated_count": 0,
+    "confidence_level": "unknown",
+    "reasoning": "Failed to parse estimation",
+    "avg_accuracy_ratio": 0,
+    "max_accuracy_ratio": 0,
+    "estimation_quality": "无估计"
+  },
+  "attempt_details": [
+    {
+      "attempt": 1,
+      "topics_generated": 89,
+      "total_topics_claimed": 89,
+      "response_length": 23693,
+      "success": true
+    },
+    {
+      "attempt": 2,
+      "topics_generated": 64,
+      "total_topics_claimed": 64,
+      "response_length": 17333,
+      "success": true
+    },
+    {
+      "attempt": 3,
+      "topics_generated": 0,
+      "error": "无法解析JSON响应",
+      "success": false
+    }
+  ],
+  "best_result_sample": [
+    {
+      "topic_num": 1
+    },
+    {
+      "topic_num": 2
+    },
+    {
+      "topic_num": 3
+    },
+    {
+      "topic_num": 4
+    },
+    {
+      "topic_num": 5
+    }
+  ],
+  "evaluation": {
+    "generation_capacity": "优秀",
+    "stability": "不稳定",
+    "self_estimation_quality": "无估计",
+    "overall_assessment": "优秀"
+  }
+}

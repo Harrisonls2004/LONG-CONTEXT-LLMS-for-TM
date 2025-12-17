@@ -1,0 +1,75 @@
+{
+  "metric_name": "主题下平均分配文本数量",
+  "total_topics": 10,
+  "mean_texts_per_topic": 38.4,
+  "variance": 13.44,
+  "standard_deviation": 3.67,
+  "min_texts_per_topic": 28,
+  "max_texts_per_topic": 40,
+  "coefficient_of_variation": 0.0955,
+  "distribution_uniformity": "高",
+  "topic_details": [
+    {
+      "topic_num": 1,
+      "summary": "International diplomatic relations and tensions involving major world powers, including the United States, Russia, China, and Iran.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 2,
+      "summary": "Political protests, demonstrations, and civil unrest driven by elections, government policies, and demands for democratic reforms.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 3,
+      "summary": "Armed conflicts, wars, and military actions in regions including the Middle East, Afghanistan, and Africa.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 4,
+      "summary": "Nuclear weapons development, disarmament talks, and international non-proliferation efforts involving North Korea and Iran.",
+      "text_count": 28
+    },
+    {
+      "topic_num": 5,
+      "summary": "Human rights issues, including political prisoners, torture, freedom of speech, and abuses by governments and military forces.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 6,
+      "summary": "Elections, political campaigns, and electoral processes in various countries, including allegations of fraud and international monitoring.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 7,
+      "summary": "Environmental issues and climate change, including global warming, natural disasters, and international agreements.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 8,
+      "summary": "Terrorist attacks, counterterrorism efforts, and the activities of groups like Al Qaeda, ISIS, and the Taliban.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 9,
+      "summary": "Economic conditions, market trends, financial crises, and international trade issues affecting global and regional economies.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 10,
+      "summary": "Health crises and pandemics, including the spread of diseases, international response, and impact on public health systems.",
+      "text_count": 36
+    }
+  ],
+  "text_count_distribution": [
+    40,
+    40,
+    40,
+    28,
+    40,
+    40,
+    40,
+    40,
+    40,
+    36
+  ]
+}

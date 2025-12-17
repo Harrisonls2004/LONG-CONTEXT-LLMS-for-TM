@@ -1,0 +1,75 @@
+{
+  "metric_name": "主题下平均分配文本数量",
+  "total_topics": 10,
+  "mean_texts_per_topic": 39.3,
+  "variance": 3.21,
+  "standard_deviation": 1.79,
+  "min_texts_per_topic": 34,
+  "max_texts_per_topic": 40,
+  "coefficient_of_variation": 0.0456,
+  "distribution_uniformity": "高",
+  "topic_details": [
+    {
+      "topic_num": 1,
+      "summary": "Climate change and environmental issues including global warming, carbon emissions, and international climate agreements and policies.",
+      "text_count": 34
+    },
+    {
+      "topic_num": 2,
+      "summary": "International conflicts and wars including Syria, Iraq, Afghanistan, and other military interventions and their humanitarian consequences.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 3,
+      "summary": "Terrorism attacks, counterterrorism efforts, and security threats across various countries and regions.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 4,
+      "summary": "Elections, political campaigns, and democratic processes in various countries including the United States and international elections.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 5,
+      "summary": "Human rights violations, political prisoners, and authoritarian crackdowns on civil liberties and freedom of expression.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 6,
+      "summary": "Natural disasters including earthquakes, tsunamis, hurricanes, floods, and their impact on affected communities.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 7,
+      "summary": "Nuclear weapons programs, arms control negotiations, and international efforts to prevent nuclear proliferation.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 8,
+      "summary": "Immigration, refugee crises, and border control issues affecting migrants and displaced populations worldwide.",
+      "text_count": 39
+    },
+    {
+      "topic_num": 9,
+      "summary": "Coronavirus pandemic including case tracking, vaccination efforts, public health measures, and global response to COVID-19.",
+      "text_count": 40
+    },
+    {
+      "topic_num": 10,
+      "summary": "Economic crises, financial instability, corruption scandals, and their impact on governments and societies.",
+      "text_count": 40
+    }
+  ],
+  "text_count_distribution": [
+    34,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    39,
+    40,
+    40
+  ]
+}

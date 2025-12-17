@@ -1,0 +1,315 @@
+{
+  "metric_name": "主题下平均分配文本数量",
+  "total_topics": 50,
+  "mean_texts_per_topic": 20.44,
+  "variance": 55.77,
+  "standard_deviation": 7.47,
+  "min_texts_per_topic": 2,
+  "max_texts_per_topic": 25,
+  "coefficient_of_variation": 0.3653,
+  "distribution_uniformity": "中",
+  "topic_details": [
+    {
+      "topic_num": 1,
+      "summary": "Rift between Iranian President Ahmadinejad and Supreme Leader Khamenei amid international concerns over Iran's nuclear program and banking system",
+      "text_count": 25
+    },
+    {
+      "topic_num": 2,
+      "summary": "India-China diplomatic relations and regional cooperation efforts in Asia",
+      "text_count": 25
+    },
+    {
+      "topic_num": 3,
+      "summary": "Chinese internet activism and bloggers influencing government investigations",
+      "text_count": 25
+    },
+    {
+      "topic_num": 4,
+      "summary": "Climate change impacts on Alpine ski resorts and winter tourism",
+      "text_count": 14
+    },
+    {
+      "topic_num": 5,
+      "summary": "International response to Darfur conflict affecting Beijing Olympics participation",
+      "text_count": 3
+    },
+    {
+      "topic_num": 6,
+      "summary": "Iraqi parliamentary measures and political developments following security challenges",
+      "text_count": 25
+    },
+    {
+      "topic_num": 7,
+      "summary": "Panama poisoning incident linked to Chinese manufacturing and counterfeit medicine",
+      "text_count": 25
+    },
+    {
+      "topic_num": 8,
+      "summary": "Armenian election protests and international observation of political developments",
+      "text_count": 25
+    },
+    {
+      "topic_num": 9,
+      "summary": "Russian political transition with Medvedev's presidency and Putin's continued influence",
+      "text_count": 25
+    },
+    {
+      "topic_num": 10,
+      "summary": "International financial concerns regarding Iran's banking system and potential money laundering",
+      "text_count": 25
+    },
+    {
+      "topic_num": 11,
+      "summary": "Hezbollah's criticism of US naval presence near Lebanon and regional tensions",
+      "text_count": 10
+    },
+    {
+      "topic_num": 12,
+      "summary": "Venezuela and Ecuador border tensions with Colombia following guerrilla leader's death",
+      "text_count": 15
+    },
+    {
+      "topic_num": 13,
+      "summary": "Bombing attacks in Iraqi holy cities and political implications",
+      "text_count": 25
+    },
+    {
+      "topic_num": 14,
+      "summary": "Heathrow Airport operational failures in Britain and technological challenges",
+      "text_count": 6
+    },
+    {
+      "topic_num": 15,
+      "summary": "Technology-facilitated worker protests in Egypt and rising public discontent",
+      "text_count": 12
+    },
+    {
+      "topic_num": 16,
+      "summary": "Colombian labor union killings affecting trade relations with the United States",
+      "text_count": 25
+    },
+    {
+      "topic_num": 17,
+      "summary": "Release of Islamist leader in Pakistan and implications for counterterrorism efforts",
+      "text_count": 25
+    },
+    {
+      "topic_num": 18,
+      "summary": "Biofuel crop risks and environmental concerns regarding invasive species",
+      "text_count": 3
+    },
+    {
+      "topic_num": 19,
+      "summary": "Bangladesh anti-crime operations and political implications of mass arrests",
+      "text_count": 25
+    },
+    {
+      "topic_num": 20,
+      "summary": "French fashion industry and cultural events following Yves Saint Laurent's death",
+      "text_count": 20
+    },
+    {
+      "topic_num": 21,
+      "summary": "US presidential stance on Beijing Olympics and international diplomatic considerations",
+      "text_count": 5
+    },
+    {
+      "topic_num": 22,
+      "summary": "African economic challenges with rising fuel prices and food security concerns",
+      "text_count": 25
+    },
+    {
+      "topic_num": 23,
+      "summary": "North Korean nuclear disarmament verification process and international negotiations",
+      "text_count": 25
+    },
+    {
+      "topic_num": 24,
+      "summary": "Israeli political corruption investigations involving Prime Minister Olmert",
+      "text_count": 25
+    },
+    {
+      "topic_num": 25,
+      "summary": "Iraqi provincial tensions and government raids in Diyala Province",
+      "text_count": 14
+    },
+    {
+      "topic_num": 26,
+      "summary": "Thai political crisis and state of emergency related to tourism concerns",
+      "text_count": 25
+    },
+    {
+      "topic_num": 27,
+      "summary": "South African political leadership transition with Mbeki's resignation",
+      "text_count": 16
+    },
+    {
+      "topic_num": 28,
+      "summary": "US military assessment of Afghanistan mission and policy review",
+      "text_count": 25
+    },
+    {
+      "topic_num": 29,
+      "summary": "Friendly fire incidents between Iraqi and US forces during military operations",
+      "text_count": 25
+    },
+    {
+      "topic_num": 30,
+      "summary": "Italian legal decisions on end-of-life care and feeding tube removal",
+      "text_count": 25
+    },
+    {
+      "topic_num": 31,
+      "summary": "International report on Georgia conflict and civilian protection failures",
+      "text_count": 2
+    },
+    {
+      "topic_num": 32,
+      "summary": "Iranian detainment in Iraq and cross-border security concerns",
+      "text_count": 25
+    },
+    {
+      "topic_num": 33,
+      "summary": "French political corruption charges against former premier Villepin",
+      "text_count": 20
+    },
+    {
+      "topic_num": 34,
+      "summary": "Pakistan's intelligence links to Mumbai attacks and Lashkar-e-Taiba",
+      "text_count": 25
+    },
+    {
+      "topic_num": 35,
+      "summary": "Brazilian military modernization efforts amid regional security concerns",
+      "text_count": 25
+    },
+    {
+      "topic_num": 36,
+      "summary": "Sudanese territorial disputes over Abyei and peace treaty implications",
+      "text_count": 25
+    },
+    {
+      "topic_num": 37,
+      "summary": "International response to Gaza conflict and humanitarian concerns",
+      "text_count": 25
+    },
+    {
+      "topic_num": 38,
+      "summary": "German political implications of skiing accident involving powerful politician",
+      "text_count": 25
+    },
+    {
+      "topic_num": 39,
+      "summary": "Russia-Ukraine gas supply disputes and European energy security concerns",
+      "text_count": 25
+    },
+    {
+      "topic_num": 40,
+      "summary": "Personal tragedies in Gaza conflict and humanitarian impact",
+      "text_count": 25
+    },
+    {
+      "topic_num": 41,
+      "summary": "Taliban's radio propaganda in Pakistan and control over Swat region",
+      "text_count": 25
+    },
+    {
+      "topic_num": 42,
+      "summary": "Lebanese political satire and media criticism of Hezbollah",
+      "text_count": 10
+    },
+    {
+      "topic_num": 43,
+      "summary": "Turkish outreach to Kurdish population and political inclusion efforts",
+      "text_count": 25
+    },
+    {
+      "topic_num": 44,
+      "summary": "British engagement with Northern Ireland and concerns over violence resurgence",
+      "text_count": 25
+    },
+    {
+      "topic_num": 45,
+      "summary": "Papal influence in African politics and calls for democracy",
+      "text_count": 25
+    },
+    {
+      "topic_num": 46,
+      "summary": "US role in Mexican drug trade and Clinton's acknowledgment of responsibility",
+      "text_count": 25
+    },
+    {
+      "topic_num": 47,
+      "summary": "Moldovan anti-communist political movements and youth protests",
+      "text_count": 19
+    },
+    {
+      "topic_num": 48,
+      "summary": "Russian police violence incidents and officer shootings",
+      "text_count": 25
+    },
+    {
+      "topic_num": 49,
+      "summary": "Genetic research on human origins in Africa and anthropological findings",
+      "text_count": 4
+    },
+    {
+      "topic_num": 50,
+      "summary": "US attempts to reach Burmese political leader Aung San Suu Kyi and diplomatic implications",
+      "text_count": 24
+    }
+  ],
+  "text_count_distribution": [
+    25,
+    25,
+    25,
+    14,
+    3,
+    25,
+    25,
+    25,
+    25,
+    25,
+    10,
+    15,
+    25,
+    6,
+    12,
+    25,
+    25,
+    3,
+    25,
+    20,
+    5,
+    25,
+    25,
+    25,
+    14,
+    25,
+    16,
+    25,
+    25,
+    25,
+    2,
+    25,
+    20,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    25,
+    10,
+    25,
+    25,
+    25,
+    25,
+    19,
+    25,
+    4,
+    24
+  ]
+}

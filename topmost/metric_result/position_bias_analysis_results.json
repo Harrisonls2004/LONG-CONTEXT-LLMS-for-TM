@@ -1,0 +1,36 @@
+{
+  "metric_name": "输入文本位置偏好分析（前30% | 中40% | 后30%）",
+  "total_texts": 14000,
+  "segment_counts": {
+    "front_30_count": 4200,
+    "middle_40_count": 5600,
+    "back_30_count": 4200
+  },
+  "segment_referenced": {
+    "front_30_referenced": 428,
+    "middle_40_referenced": 273,
+    "back_30_referenced": 129
+  },
+  "segment_ratios": {
+    "front_30_ratio": 0.1019,
+    "middle_40_ratio": 0.0488,
+    "back_30_ratio": 0.0307
+  },
+  "bias_indices": {
+    "front_vs_middle": 2.0483,
+    "back_vs_middle": 0.6174,
+    "front_vs_back": 3.2132
+  },
+  "neglect_scores": {
+    "middle_neglect": 0.9513,
+    "position_balance": 0.0302
+  },
+  "total_referenced": 830,
+  "overall_reference_ratio": 0.0593,
+  "position_analysis": {
+    "front_bias": "高",
+    "middle_neglect": "严重",
+    "back_bias": "低",
+    "overall_balance": "均衡"
+  }
+}

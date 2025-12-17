@@ -1,0 +1,56 @@
+{
+  "metric_name": "高频主题优先生成",
+  "total_topics": 13,
+  "mean_frequency": 19.0,
+  "variance": 71.23,
+  "standard_deviation": 8.44,
+  "high_frequency_ratio": 0.2024,
+  "stability_score": 0.2106,
+  "priority_score": 0.76,
+  "frequency_distribution": [
+    12,
+    25,
+    25,
+    25,
+    25,
+    25,
+    5,
+    0,
+    15,
+    25,
+    15,
+    25,
+    25
+  ],
+  "top_topics": [
+    {
+      "topic_num": 2,
+      "summary": "The article reports on a DNA analysis that indicated a 3-year-old boy born in the Colombian jungle to a kidnapped woman may have been living near his relatives all along.",
+      "keywords": [
+        "DNA analysis",
+        "Colombia",
+        "Kidnapping",
+        "Civil War and Guerrilla Warfare"
+      ],
+      "frequency": 25,
+      "source_count": 25
+    },
+    {
+      "topic_num": 3,
+      "summary": "The article discusses the expansion of the U.S. detention center at Bagram military base in Afghanistan despite efforts to scale it back.",
+      "keywords": [
+        "Afghanistan",
+        "Military Bases and Installations",
+        "Prisons and Prisoners",
+        "Guantanamo Bay"
+      ],
+      "frequency": 25,
+      "source_count": 25
+    }
+  ],
+  "evaluation": {
+    "high_frequency_priority": "优秀",
+    "stability": "不稳定",
+    "overall_assessment": "需改进"
+  }
+}

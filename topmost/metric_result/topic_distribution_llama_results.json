@@ -1,0 +1,93 @@
+{
+  "metric_name": "主题下平均分配文本数量",
+  "total_topics": 13,
+  "mean_texts_per_topic": 19.0,
+  "variance": 71.23,
+  "standard_deviation": 8.44,
+  "min_texts_per_topic": 0,
+  "max_texts_per_topic": 25,
+  "coefficient_of_variation": 0.4442,
+  "distribution_uniformity": "中",
+  "topic_details": [
+    {
+      "topic_num": 1,
+      "summary": "The article discusses the death of Bert Bolin, a pioneering climatologist and the first chairman of the United Nations Intergovernmental Panel on Climate Change.",
+      "text_count": 12
+    },
+    {
+      "topic_num": 2,
+      "summary": "The article reports on a DNA analysis that indicated a 3-year-old boy born in the Colombian jungle to a kidnapped woman may have been living near his relatives all along.",
+      "text_count": 25
+    },
+    {
+      "topic_num": 3,
+      "summary": "The article discusses the expansion of the U.S. detention center at Bagram military base in Afghanistan despite efforts to scale it back.",
+      "text_count": 25
+    },
+    {
+      "topic_num": 4,
+      "summary": "The article reports on a rift emerging between President Mahmoud Ahmadinejad and Iran's supreme religious leader, Ayatollah Ali Khamenei.",
+      "text_count": 25
+    },
+    {
+      "topic_num": 5,
+      "summary": "The article discusses Philip Agee, a former CIA officer who exposed undercover American spies overseas before his death at 72.",
+      "text_count": 25
+    },
+    {
+      "topic_num": 6,
+      "summary": "The article reports on a previously undisclosed incident involving the use of gas by Blackwater private security contractors in Iraq.",
+      "text_count": 25
+    },
+    {
+      "topic_num": 7,
+      "summary": "The article discusses the seizure of Radovan Karadzic's family members' passports by Bosnian Serb police at the request of the international war crimes court.",
+      "text_count": 5
+    },
+    {
+      "topic_num": 8,
+      "summary": "The article reports on the United States and Germany's agreement to recognize Kosovo after it declares independence.",
+      "text_count": 0
+    },
+    {
+      "topic_num": 9,
+      "summary": "The article discusses the United States' efforts to urge North Korea to provide a complete and correct accounting of its nuclear weapons programs.",
+      "text_count": 15
+    },
+    {
+      "topic_num": 10,
+      "summary": "The article reports on Taiwan's preparations for its first major election in 2008 and China's condemnation of the referendum.",
+      "text_count": 25
+    },
+    {
+      "topic_num": 11,
+      "summary": "The article discusses a French court's rejection of Cécilia Sarkozy's attempt to block the publication of a book critical of her ex-husband, President Nicolas Sarkozy.",
+      "text_count": 15
+    },
+    {
+      "topic_num": 12,
+      "summary": "The article reports on a clash between allied Afghan soldiers and Dutch troops, resulting in the deaths of 15 people.",
+      "text_count": 25
+    },
+    {
+      "topic_num": 13,
+      "summary": "The article discusses rising tensions between Britain and Russia over a British cultural organization's defiance of a Russian government order to close its offices.",
+      "text_count": 25
+    }
+  ],
+  "text_count_distribution": [
+    12,
+    25,
+    25,
+    25,
+    25,
+    25,
+    5,
+    0,
+    15,
+    25,
+    15,
+    25,
+    25
+  ]
+}
